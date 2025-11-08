@@ -12,13 +12,14 @@ function linkcoblos4d() {location.replace("https://usdc.coblosmau.xyz/?ref=babis
 function linkkadobet() {location.replace("https://rodakadobet.com/?ref=babisexy");}
 function linkmpo222() {location.replace("https://mpo222.sbs/register/JK86G0Y4");}
 function linkqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=0B6343ED");}
-function link303hoki() {location.replace("https://shipstailor.com/register/B48RPJDN");}
+function link303hoki() {location.replace("https://eworldexternal.com/register/B48RPJDN");}
 function linkjet88bet() {location.replace("https://jet88antri.site/?ref=babisexy");}
 function linkmpo369() {location.replace("https://mpo369bj.com/register/JQPK80KM");}
 function link8bettingan() {location.replace("https://link1.bettingan.vip/");}
 function linkmpo08() {location.replace("https://mpo08bul.xyz/register/Q2RDGN20");}
 function linkmpo888() {location.replace("https://lp1.mpo888games.link/register/437GR640");}
 function linkdewatogel() {location.replace("https://dwtmaxwinjp.space/register?referral_code=babisexy");}
+
 
 
 
