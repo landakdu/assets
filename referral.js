@@ -16,9 +16,10 @@ function link303hoki() {location.replace("https://eworldexternal.com/register/B4
 function linkjet88bet() {location.replace("https://jet88enak.space/?ref=babisexy");}
 function linkmpo369() {location.replace("https://mpo369bj.com/register/JQPK80KM");}
 function link8bettingan() {location.replace("https://link1.bettingan.vip/");}
-function linkmpo08() {location.replace("https://mpo08bul.xyz/register/Q2RDGN20");}
+function linkmpo08() {location.replace("https://mpo08yna.xyz/register/Q2RDGN20");}
 function linkmpo888() {location.replace("https://lp1.mpo888games.link/register/437GR640");}
 function linkdewatogel() {location.replace("https://detolmaxwin.us/register?referral_code=babisexy");}
+
 
 
 
