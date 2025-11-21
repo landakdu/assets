@@ -1,6 +1,6 @@
 document.getElementById('yourform').submit();
 function linknama() {location.replace("/");}
-function linktokekwin() {location.replace("http://panenmahkota.lol/daftar?ref=babisexy");}
+function linktokekwin() {location.replace("http://gidx-tokek1.xyz/daftar?ref=babisexy");}
 function linkpphoki() {location.replace("https://pphoki8899.xyz/?ref=babisexy");}
 function linkaw8() {location.replace("https://www.aw8jos.com/id-id/register?refid=ymbrprab");}
 function linkhoki177() {location.replace("https://halohoki177.com/register?ref=babisexy");}
@@ -18,7 +18,8 @@ function linkmpo369() {location.replace("https://mpo369bj.com/register/JQPK80KM"
 function link8bettingan() {location.replace("https://link1.bettingan.vip/");}
 function linkmpo08() {location.replace("https://mpo08yna.xyz/register/Q2RDGN20");}
 function linkmpo888() {location.replace("https://lp1.mpo888games.link/register/437GR640");}
-function linkdewatogel() {location.replace("https://detolmaxwin.us/register?referral_code=babisexy");}
+function linkdewatogel() {location.replace("https://detolmaxwin.space/register?referral_code=babisexy");}
+
 
 
 
