@@ -10,7 +10,7 @@ function linkkijangwin() {location.replace("http://spiritkijangwin-1reff.shop/da
 function linkaquaslot() {location.replace("https://aquaslot8.xyz/?ref=babisexy");}
 function linkcoblos4d() {location.replace("https://usdc.coblosmau.xyz/?ref=babisexy");}
 function linkkadobet() {location.replace("https://rodakadobet.com/?ref=babisexy");}
-function linkmpo222() {location.replace("https://mpo222promax.com/register/JK86G0Y4");}
+function linkmpo222() {location.replace("https://mpo222bangka.com/register/JK86G0Y4");}
 function linkqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=");}
 function link303hoki() {location.replace("https://eworldexternal.com/register/B48RPJDN");}
 function linkjet88bet() {location.replace("https://jet88enak.space/?ref=babisexy");}
@@ -19,6 +19,7 @@ function link8bettingan() {location.replace("https://link1.bettingan.vip/");}
 function linkmpo08() {location.replace("https://mpo08yna.xyz/register/Q2RDGN20");}
 function linkmpo888() {location.replace("https://lp1.mpo888games.link/register/437GR640");}
 function linkdewatogel() {location.replace("https://detolmaxwin.space/register?referral_code=babisexy");}
+
 
 
 
