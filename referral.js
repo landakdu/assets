@@ -137,18 +137,71 @@ function linkdewakoin() {location.replace("https://dewakoin05.com/");}
 function linkkas138() {location.replace("https://vip1.kas138-oke.com/");}
 function linkole777() {location.replace("https://m.991ole.com/");}
 function link9win() {location.replace("https://9winpower5.pro/");}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+function linkdewacasino() {location.replace("https://aulza13569.decaspro.xyz/");}
+function linktongtoto() {location.replace("https://tongtotoratu.com/");}
+function linkhokiwin() {location.replace("https://13.228.143.41/");}
+function linkmpocasino() {location.replace("https://mpocasino-viva.com/");}
+function linkolxtoto() {location.replace("https://duaempat11.olxtoto.io/");}
+function linkratu89() {location.replace("https://ratu89.forum/");}
+function link8bettingan() {location.replace("https://link4.bettingan.vip/");}
+function linkmposport() {location.replace("https://mposportnine.com/");}
+function linkmposlot() {location.replace("https://mposlotnew.xyz/");}
+function linkmpopoker() {location.replace("https://nebulakkslot777.com/");}
+function linkmpogacor() {location.replace("https://mpogacor-sip.com/");}
+function linkmpo1221() {location.replace("https://mpo1221hall.net/");}
+function linkmpo2121() {location.replace("https://depok2121.org/");}
+function linkmpo1881() {location.replace("https://mpokuy1881.com/");}
+function linkmpo88asia() {location.replace("https://mpo88asiaboom.com/");}
+function linkmpo383() {location.replace("https://www.mpo383-bbb.com/");}
+function linknexus88() {location.replace("https://www.xn--nexus-rt3ik37t.com/");}
+function linkareabola() {location.replace("https://areabola.com/");}
+function linkagenliga() {location.replace("https://agenliga.com/");}
+function linkligabola() {location.replace("https://ligabola.com/");}
+function linksukabet() {location.replace("https://sukabetlinkslotgacor.com/");}
+function linkrajacuan() {location.replace("https://rcsatu.pro/");}
+function linkdewi138() {location.replace("https://dewi138semangat.com/");}
+function linkjoin999() {location.replace("https://join999.com/");}
+function linkpari303() {location.replace("https://www.pari303.it.com/");}
+function linkrajazeus() {location.replace("https://vvip1.rajazeus.fans/");}
+function linksigma168() {location.replace("https://sigma168.com/");}
+function linkjual303() {location.replace("https://jual303.com/");}
+function linkpusatjudionline() {location.replace("https://maindipjo.store/");}
+function linkkaratetoto() {location.replace("https://shimosato-farm.com/");}
+function linkwatitoto() {location.replace("https://wati80215.com/");}
+function linkrajamahjong() {location.replace("https://www.servergacor.rajamahjong.biz/");}
+function linkhoki88bos() {location.replace("https://www.whistlestopdiners.com/");}
+function linkmahjongjp88() {location.replace("https://mahjongjp88.net/");}
+function linkolympus88() {location.replace("https://olympus88url.com/");}
+function linkcupangjp() {location.replace("https://cupangjp.com/");}
+function linkmurah4d() {location.replace("https://murah4dstellar.sbs/");}
+function linkgacor69() {location.replace("https://sukasamasuka69.xyz/");}
+function linkslot138() {location.replace("https://slot138playground.com/");}
+function link888slot() {location.replace("https://888slot.com/");}
+function linkpanen99() {location.replace("https://panen99verse.com/");}
+function linkraja288() {location.replace("https://11.raja288l.top/");}
+function linkmaxi188() {location.replace("https://maxi188.org/");}
+function linkneymar88() {location.replace("https://neymar88.com/");}
+function linkclickbet88() {location.replace("https://clickbet88bawaberkah.xyz/");}
+function linkrajapanen() {location.replace("https://vendor.rajapanengacor.mom/");}
+function linkoyoslot() {location.replace("https://t3t.oyoslot12.live/");}
+function linkjudolbet88() {location.replace("https://judolbet88pp.com/");}
+function linkslot123() {location.replace("https://www.solera.bar/");}
+function linkdewagacor138() {location.replace("https://gg.dwgcr138.com/");}
+function linkdewaslot88() {location.replace("https://slot828f.rest/");}
+function linkdewa222() {location.replace("https://dewa222enak.com/");}
+function linktuak88() {location.replace("https://maindituak.space/");}
+function linktokyo77() {location.replace("https://tokyo77gcr11.site/");}
+function linkapibet() {location.replace("https://apibetlogin.space/");}
+function linkmaniakslot() {location.replace("https://maniakslot17.store/");}
+function linkjoki288() {location.replace("https://joki288bk.info/");}
+function linkgwinbola() {location.replace("https://gwinbolamid.com/");}
+function linkyoyo88() {location.replace("https://yoyo88slot.online/");}
+function linksarang777() {location.replace("https://agensarang.pro/");}
+function linknagahoki88() {location.replace("https://www.girigramadarshini.com/");}
+function linknvmslot898() {location.replace("https://nvmslot898.com/");}
+function linkslotthailand() {location.replace("https://www.dscafeteria.com/");}
+function linkkw303() {location.replace("https://vitafoamng.com/");}
+function linkcumi787() {location.replace("https://2cumi787.click/");}
+function linkterminal4d() {location.replace("https://terminal4dluccky.vip/");}
+function linkrajajudi33() {location.replace("https://rajajudi33-login.com/");}
 
