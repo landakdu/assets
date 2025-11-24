@@ -4,7 +4,7 @@ function linktokekwin() {location.replace("http://gidx-tokek1.xyz/daftar?ref=bab
 function linkpphoki() {location.replace("https://pphoki8899.xyz/?ref=babisexy");}
 function linkaw8() {location.replace("https://www.aw8jos.com/id-id/register?refid=ymbrprab");}
 function linkhoki177() {location.replace("https://halohoki177.com/register?ref=babisexy");}
-function linknewliga365() {location.replace("https://newliga365q.org/?action=register&rc=LEOK60YFBD&ci=11");}
+function linknewliga365() {location.replace("https://newliga365vip.site/?action=register&rc=LEOK60YFBD&ci=11");}
 function linklotto01() {location.replace("https://masterlotto01.org/referral/BABISEXY");}
 function linkkijangwin() {location.replace("http://spiritkijangwin-1reff.shop/daftar?ref=babisexy");}
 function linkaquaslot() {location.replace("https://aquaslot8.xyz/?ref=babisexy");}
@@ -16,7 +16,7 @@ function link303hoki() {location.replace("https://eworldexternal.com/register/B4
 function linkjet88bet() {location.replace("https://jet88enak.space/?ref=babisexy");}
 function linkmpo369() {location.replace("https://mpo369bj.com/register/JQPK80KM");}
 function link8bettingan() {location.replace("https://link1.bettingan.vip/");}
-function linkmpo08() {location.replace("https://mpo08yna.xyz/register/Q2RDGN20");}
+function linkmpo08() {location.replace("https://mpo08dna.xyz/register/Q2RDGN20");}
 function linkmpo888() {location.replace("https://mpo888web.com/register/437GR640");}
 function linkdewatogel() {location.replace("https://detolmaxwin.space/register?referral_code=babisexy");}
 
@@ -137,6 +137,7 @@ function linkdewakoin() {location.replace("https://dewakoin05.com/");}
 function linkkas138() {location.replace("https://vip1.kas138-oke.com/");}
 function linkole777() {location.replace("https://m.991ole.com/");}
 function link9win() {location.replace("https://9winpower5.pro/");}
+
 
 
 
