@@ -11,7 +11,7 @@ function linkkijangwin() {location.replace("http://spiritkijangwin-1reff.shop/da
 function linkaquaslot() {location.replace("https://aquaslot8.xyz/?ref=babisexy");}
 function linkcoblos4d() {location.replace("https://usdc.coblosmau.xyz/?ref=babisexy");}
 function linkkadobet() {location.replace("https://rodakadobet.com/?ref=babisexy");}
-function linkmpo222() {location.replace("https://mpo222bangka.com/register/JK86G0Y4");}
+function linkmpo222() {location.replace("https://mpo222emas.com/register/JK86G0Y");}
 function linkqqbos99() {location.replace("https://www.senisastra.com/Member/StreamlinedRegister?R=");}
 function link303hoki() {location.replace("https://eworldexternal.com/register/B48RPJDN");}
 function linkjet88bet() {location.replace("https://jet88enak.space/?ref=babisexy");}
@@ -205,6 +205,7 @@ function linkkw303() {location.replace("https://vitafoamng.com/");}
 function linkcumi787() {location.replace("https://2cumi787.click/");}
 function linkterminal4d() {location.replace("https://terminal4dluccky.vip/");}
 function linkrajajudi33() {location.replace("https://rajajudi33-login.com/");}
+
 
 
 
