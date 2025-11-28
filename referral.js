@@ -21,7 +21,7 @@ function linkmpo08() {location.replace("https://mpo08dna.xyz/register/Q2RDGN20")
 function linkmpo888() {location.replace("https://mpo888ind.com/register/437GR640");}
 function linkdewatogel() {location.replace("https://dctws47490.dwtnaik.one/register?referral_code=babisexy");}
 
-function linkwis77() {location.replace("https://king-of-luck.com/");}
+function linkwis77() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=17110815&group=0");}
 function linkmpo111() {location.replace("https://mpo111website.com/");}
 function linkzona66() {location.replace("https://zona66.lol/");}
 function linkgacorbos88() {location.replace("https://vip.gacorbos88uu.vip/");}
@@ -205,6 +205,7 @@ function linkkw303() {location.replace("https://vitafoamng.com/");}
 function linkcumi787() {location.replace("https://2cumi787.click/");}
 function linkterminal4d() {location.replace("https://terminal4dluccky.vip/");}
 function linkrajajudi33() {location.replace("https://rajajudi33-login.com/");}
+
 
 
 
