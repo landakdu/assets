@@ -8,7 +8,7 @@ function linkhoki177() {location.replace("https://halohoki177.com/register?ref=b
 function linknewliga365() {location.replace("https://newliga365vip.site/?action=register&rc=LEOK60YFBD&ci=11");}
 function linklotto01() {location.replace("https://masterlotto01.org/referral/BABISEXY");}
 function linkkijangwin() {location.replace("http://spiritkijangwin-1reff.shop/daftar?ref=babisexy");}
-function linkaquaslot() {location.replace("https://aquaslot8.xyz/?ref=babisexy");}
+function linkaquaslot() {location.replace("https://aquaslot9.xyz/?ref=babisexy");}
 function linkcoblos4d() {location.replace("https://usdc.coblosmau.xyz/?ref=babisexy");}
 function linkkadobet() {location.replace("https://rodakadobet.com/?ref=babisexy");}
 function linkmpo222() {location.replace("https://mpo222emas.com/register/JK86G0Y");}
@@ -199,3 +199,4 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
