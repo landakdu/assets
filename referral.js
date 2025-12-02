@@ -26,7 +26,7 @@ function linkwis77() {location.replace("https://wis77webapp.b-cdn.net/");}
 function linkmpo111() {location.replace("https://mpo111audi.pages.dev/");}
 function linkzona66() {location.replace("https://zona66.pages.dev/");}
 function linkgacorbos88() {location.replace("https://ampgacorbos88loh.com/");}
-function linkmusangwin() {location.replace("https://amp.snowygetaway.shop/");}
+function linkmusangwin() {location.replace("https://tx4n.titanara.shop/");}
 function linkdemen303() {location.replace("https://ampdemen303.website/");}
 function linknagatop() {location.replace("https://situs-naga.top/daftar/");}
 function linkjnt77() {location.replace("https://slot-gacor.wordadayarabic.com/wordadayarabic.html");}
@@ -200,6 +200,7 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
 
 
 
