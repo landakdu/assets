@@ -85,7 +85,7 @@ function linksinggah4d() {location.replace("https://singgah4d.site/");}
 function linkindoagen188() {location.replace("https://indoagen188.b-cdn.net/amp-indoagen188/index.html");}
 function linkjoki55() {location.replace("https://trendinginsidernetwork55.pages.dev/");}
 function linknusabet() {location.replace("https://dragonball.website/amp/cuan/");}
-function linkmaxwin88() {location.replace("https://hadiahmetal.life/turbo/");}
+function linkmaxwin88() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=14602230&group=0");}
 function linktektok77() {location.replace("https://tektok77-amp-terpercaya.pages.dev/");}
 function linkmarathonbet() {location.replace("https://marathon-bet.net/");}
 function link12bet() {location.replace("https://secure.livechatinc.com/licence/7903821/v2/open_chat.cgi?group=5&name=");}
@@ -200,6 +200,7 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
 
 
 
