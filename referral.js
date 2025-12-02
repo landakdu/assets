@@ -101,7 +101,7 @@ function linkkaikoslot() {location.replace("https://kaikoslot-login.pages.dev/am
 function linkmega55() {location.replace("https://atlantaotology.com/meet-amp/");}
 function linkwishslot() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13470840&group=0");}
 function linkpintutogel() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=14193819&group=0");}
-function linknyaitogel() {location.replace("https://sigsauergunsale.com/");}
+function linknyaitogel() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=18057555&group=0");}
 function linkaurajp() {location.replace("https://aurajpx.theamplink.com/");}
 function linkdauntogel() {location.replace("https://heylink.me/dauntogel.link.alternatif/");}
 function linkpiontogel() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=14340006&group=0");}
@@ -200,6 +200,7 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
 
 
 
