@@ -62,7 +62,7 @@ function linktatabet() {location.replace("https://secure.livechatinc.com/custome
 function linksatutogel() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=4743931&group=11");}
 function linkindogenting() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=4743931&group=5");}
 function linksupertogel() {location.replace("https://amp22.superkita.com/");}
-function linkslotmacau188() {location.replace("https://ampsolar.top/amp");}
+function linkslotmacau188() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=19311977&group=0");}
 function linkeraplay88() {location.replace("https://lemonblondies.com/eraplay88/");}
 function linkjitu77() {location.replace("https://forum.iniampjitu77.info/");}
 function linkkudetabet98() {location.replace("https://kudetabet98amptergacor.com/");}
@@ -200,6 +200,7 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
 
 
 
