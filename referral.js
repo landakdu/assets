@@ -80,7 +80,7 @@ function linkcabe777() {location.replace("https://ampcabe777.com/yagumojinjya/")
 function linkneko9() {location.replace("https://heylink.me/loginneko9/");}
 function linkboss177() {location.replace("https://tawk.to/chat/658aa00d07843602b80594c3/1hiio2eb7");}
 function linkantiktoto() {location.replace("https://antiktotoresmi.pages.dev/");}
-function linkscbet88() {location.replace("https://pejuangmaxwin.com/amp/");}
+function linkscbet88() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=10515642&group=0");}
 function linksinggah4d() {location.replace("https://singgah4d.site/");}
 function linkindoagen188() {location.replace("https://indoagen188.b-cdn.net/amp-indoagen188/index.html");}
 function linkjoki55() {location.replace("https://trendinginsidernetwork55.pages.dev/");}
@@ -200,6 +200,7 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
 
 
 
