@@ -145,7 +145,7 @@ function link8bettingan() {location.replace("https://hfiveindexer.click/btg-link
 function linkmposport() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=10222842&group=0");}
 function linkmposlot() {location.replace("https://pub-9150ae88cede4c5cbdc089743186acb9.r2.dev/index.html");}
 function linkmpopoker() {location.replace("https://mpopoker.com/");}
-function linkmpogacor() {location.replace("https://mpogacor.aksesmasuk.com/");}
+function linkmpogacor() {location.replace("https://app.chaport.com/widget/show.html?appid=670e3953f63ef82953c19edf");}
 function linkmpo1221() {location.replace("https://ampmpo1221.info/amp/antidogma.html");}
 function linkmpo2121() {location.replace("https://mpo2121nih.xyz/");}
 function linkmpo1881() {location.replace("https://main-mpo1881.com/");}
@@ -200,6 +200,7 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
 
 
 
