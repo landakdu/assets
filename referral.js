@@ -35,7 +35,7 @@ function linkraja168() {location.replace("https://lite.link/raja168");}
 function linkmegabandar() {location.replace("https://achmadsdfsdf.sbs/megabandarms/");}
 function linkbagus88() {location.replace("https://bagus88.pages.dev/");}
 function linkneo177() {location.replace("https://heylink.me/NEO177.gacor/");}
-function linkkiw69() {location.replace("https://brandkw69.com/amp/");}
+function linkkiw69() {location.replace("https://cli.re/kiw69");}
 function linkmpo333() {location.replace("https://mpo333.pages.dev/");}
 function linkrajampo() {location.replace("https://heylink.me/rajampo-alternatif/");}
 function linkamavi88() {location.replace("https://amavi88-167.pages.dev/");}
@@ -200,6 +200,7 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
 
 
 
