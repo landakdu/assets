@@ -105,7 +105,7 @@ function linknyaitogel() {location.replace("https://secure.livechatinc.com/custo
 function linkaurajp() {location.replace("https://aurajpx.theamplink.com/");}
 function linkdauntogel() {location.replace("https://heylink.me/dauntogel.link.alternatif/");}
 function linkpiontogel() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=14340006&group=0");}
-function linkjadijp() {location.replace("https://jadijpb.theamplink.com/");}
+function linkjadijp() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=14997006&group=0");}
 function linkcvtogel() {location.replace("https://cvtogel4d-amp.b-cdn.net/");}
 function linkmpo555() {location.replace("https://ampmpo555.com/");}
 function linkwisdom77() {location.replace("https://ampwisdom77.shop/");}
@@ -200,6 +200,7 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
 
 
 
