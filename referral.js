@@ -108,7 +108,7 @@ function linkpiontogel() {location.replace("https://secure.livechatinc.com/custo
 function linkjadijp() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=14997006&group=0");}
 function linkcvtogel() {location.replace("https://cvtogel4d-amp.b-cdn.net/");}
 function linkmpo555() {location.replace("https://ampmpo555.com/");}
-function linkwisdom77() {location.replace("https://ampwisdom77.shop/");}
+function linkwisdom77() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=18486486&group=2");}
 function linkharbet35() {location.replace("https://harbet35-daftar.masterofficeheng.workers.dev/");}
 function linkpoa88() {location.replace("https://comsalampoa88.com/amp/");}
 function linkkenzo188() {location.replace("https://kenzo188amp.s3.ap-southeast-2.amazonaws.com/kenzo188ccl1.html");}
@@ -200,6 +200,7 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
 
 
 
