@@ -27,11 +27,11 @@ function linkmpo111() {location.replace("https://mpo111audi.pages.dev/");}
 function linkzona66() {location.replace("https://zona66.pages.dev/");}
 function linkgacorbos88() {location.replace("https://ampgacorbos88loh.com/");}
 function linkmusangwin() {location.replace("https://tx4n.titanara.shop/");}
-function linkdemen303() {location.replace("https://ampdemen303.website/");}
+function linkdemen303() {location.replace("https://secure.livechatenterprise.com/customer/action/open_chat?license_id=11194722");}
 function linknagatop() {location.replace("https://situs-naga.top/daftar/");}
 function linkjnt77() {location.replace("https://slot-gacor.wordadayarabic.com/wordadayarabic.html");}
 function linkfijislot() {location.replace("https://ampfijislot.com/");}
-function linkraja168() {location.replace("https://hcldelivery.b-cdn.net/en/services.html");}
+function linkraja168() {location.replace("https://lite.link/raja168");}
 function linkmegabandar() {location.replace("https://achmadsdfsdf.sbs/megabandarms/");}
 function linkbagus88() {location.replace("https://bagus88.pages.dev/");}
 function linkneo177() {location.replace("https://heylink.me/NEO177.gacor/");}
@@ -200,6 +200,7 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
 
 
 
