@@ -165,7 +165,7 @@ function linksigma168() {location.replace("https://sigma168-amp-sg.com/amp/");}
 function linkjual303() {location.replace("https://api.whatsapp.com/send/?phone=6281264762148&text&type=phone_number&app_absent=0");}
 function linkpusatjudionline() {location.replace("https://pjosurvivalamp.com/amp/");}
 function linkkaratetoto() {location.replace("https://top1slot.pages.dev/");}
-function linkwatitoto() {location.replace("https://amp7-watitoto.com/");}
+function linkwatitoto() {location.replace("https://linklist.bio/watitoto");}
 function linkrajamahjong() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=15368679&group=0");}
 function linkhoki88bos() {location.replace("https://lenopoorapopohoki.site/amp/");}
 function linkmahjongjp88() {location.replace("https://amp.mahjongjp88.is/moneysite.html");}
@@ -200,6 +200,7 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
 
 
 
