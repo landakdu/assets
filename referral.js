@@ -12,7 +12,6 @@ function linkaquaslot() {location.replace("https://aquaslot9.xyz/?ref=babisexy")
 function linkcoblos4d() {location.replace("https://usdc.coblosmau.xyz/?ref=babisexy");}
 function linkkadobet() {location.replace("https://rodakadobet.com/?ref=babisexy");}
 function linkmpo222() {location.replace("https://mpo222sanst.xyz/register/JK86G0Y4");}
-function linkqqbos99() {location.replace("https://www.senisastra.com/");}
 function linkqqbos99x() {location.replace("https://ampqqbos99.pages.dev/");}
 function link303hoki() {location.replace("https://eworldexternal.com/register/B48RPJDN");}
 function linkjet88bet() {location.replace("https://jet88curl.site/?ref=babisexy");}
@@ -190,6 +189,7 @@ function linkdewa222() {location.replace("https://dewa222-top1.top945164.workers
 function linktuak88() {location.replace("https://tblscholars.pages.dev/");}
 function linktokyo77() {location.replace("https://tokyo77pm.com/mantap-tokyo77/");}
 function linkapibet() {location.replace("https://ampapibetgcrs.pages.dev/");}
+function linkqqbos99() {location.replace("https://www.senisastra.com/");}
 function linkmaniakslot() {location.replace("https://midwestnailsspa.com/amp/");}
 function linkgwinbola() {location.replace("https://amp-gwinbola.pages.dev/amp-gwinbola");}
 function linkyoyo88() {location.replace("https://thehoteltelegraph.com/amp");}
@@ -201,5 +201,6 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
 
 
