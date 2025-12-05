@@ -1,6 +1,6 @@
 document.getElementById('yourform').submit();
 function linknama() {location.replace("/");}
-function linkjudisuhu() {location.replace("https://judisuhu-comm.pages.dev/");}
+function linkjudisuhu() {location.replace("https://jsuhu-com.pages.dev/");}
 function linktokekwin() {location.replace("http://gidx-tokek1.xyz/daftar?ref=babisexy");}
 function linkpphoki() {location.replace("https://pphoki8899.xyz/?ref=babisexy");}
 function linkaw8() {location.replace("https://www.aw8petir.com/id-id/register?refid=ymbrprab");}
@@ -201,28 +201,4 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
