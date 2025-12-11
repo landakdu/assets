@@ -158,7 +158,7 @@ function linkrajacuan() {location.replace("https://amprajapembericuanterbesar.pr
 function linkdewi138() {location.replace("https://138b-dewi.pages.dev/");}
 function linkjoin999() {location.replace("https://join999.pages.dev/");}
 function linkpari303() {location.replace("https://point.rmikanbakar.store/bs.mksu/");}
-function linkrajazeus() {location.replace("https://www.shermansmiles.com/family-dentistry.html");}
+function linkrajazeus() {location.replace("https://tawk.to/chat/64baa30bcc26a871b029ec71/1h5sgppns?");}
 function linksigma168() {location.replace("https://sigma168-amp-sg.com/amp/");}
 function linkjual303() {location.replace("https://api.whatsapp.com/send/?phone=6281264762148&text&type=phone_number&app_absent=0");}
 function linkpusatjudionline() {location.replace("https://pjosurvivalamp.com/amp/");}
@@ -198,6 +198,7 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
 
 
 
