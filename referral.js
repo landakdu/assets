@@ -134,7 +134,7 @@ function linkdewakoin() {location.replace("https://dewakoin-rell.org/");}
 function linkkas138() {location.replace("https://kas138-mobile.com/");}
 function linkole777() {location.replace("https://edutechhub.io/workplace/loginke1.html");}
 function link9win() {location.replace("https://kauwin.com/amp/");}
-function linkdewacasino() {location.replace("https://lemonblondies.com/dewacasino/");}
+function linkdewacasino() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=7213361&group=0");}
 function linktongtoto() {location.replace("https://amptongtotoblue.com/");}
 function linkhokiwin() {location.replace("https://hokiwin-3b2.pages.dev/");}
 function linkmpocasino() {location.replace("https://jagoan-mpocasino.com/index.html");}
@@ -199,6 +199,7 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
 
 
 
