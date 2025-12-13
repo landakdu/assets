@@ -69,7 +69,7 @@ function linkm88() {location.replace("https://drawforall.com/?I=362f4b476b674444
 function linkdafabet() {location.replace("https://dafabetindonesia.link/");}
 function linkrahayu88() {location.replace("https://rahayu88app.com/amp/");}
 function linkagen288() {location.replace("https://agen288.me/");}
-function linkbk8() {location.replace("https://bk8app.site/link-alternatif/");}
+function linkbk8() {location.replace("https://vue.livesupportbs.com/chatwindow.aspx?siteId=5000379&chatGroup=1&planId=c62215c6-37f8-4481-a2ac-e2571cf0fd34#");}
 function linkjackpot168() {location.replace("https://jp168super.xyz/guyharveyout/");}
 function linktkp303() {location.replace("https://tkp303-amp.org/index.html/");}
 function linkpentaslot() {location.replace("https://amp.darisini.site/2/index.html");}
@@ -198,6 +198,7 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
 
 
 
