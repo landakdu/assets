@@ -3,7 +3,7 @@ function linkjudisuhu() {location.replace("https://jsuhu-com.pages.dev/");}
 function linktokekwin() {location.replace("http://gidx-tokek1.xyz/daftar?ref=babisexy");}
 function linkpphoki() {location.replace("https://pphoki8899.xyz/?ref=babisexy");}
 function linkaw8() {location.replace("https://www.aw8petir.com/id-id/register?refid=ymbrprab");}
-function linkhoki177() {location.replace("https://halohoki177.com/register?ref=babisexy");}
+function linkhoki177() {location.replace("https://prohoki177.com/register?ref=babisexy");}
 function linknewliga365() {location.replace("https://newliga365v.ink/?action=register&rc=LEOK60YFBD&ci=11");}
 function linklotto01() {location.replace("https://masterlotto01.org/referral/BABISEXY");}
 function linkkijangwin() {location.replace("http://spiritkijangwin-1reff.shop/daftar?ref=babisexy");}
@@ -198,6 +198,7 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://ampnewrajajudi33.com/");}
+
 
 
 
