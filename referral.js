@@ -17,11 +17,11 @@ function link8bettingan() {window.open("https://link1.bettingan.vip/");}
 function linkmpo08() {window.open("https://mpo08dna.xyz/register/Q2RDGN20");}
 function linkmpo888() {window.open("https://lp2.mpo888games.link/register/437GR640");}
 function linkdewatogel() {window.open("https://vartox.pro/palazzoprincemalta.com/");}
-function linkwis77() {window.open("https://wis77xmas.com/register/MJ54RJPR");}
+function linkwis77() {window.open("https://dragon-fire-wis77.b-cdn.net/");}
 function linkbento4d() {window.open("https://heylink.me/bento4dtoto/");}
-function linkmpo111() {window.open("https://mpo111audi.pages.dev/");}
-function linkzona66() {window.open("https://zona66.pages.dev/");}
-function linkgacorbos88() {window.open("https://ampgacorbos88loh.com/");}
+function linkmpo111() {window.open("https://mpo111gz.com/register/67053GLN");}
+function linkzona66() {window.open("https://zona66a9.site/register/L7NQ2837");}
+function linkgacorbos88() {window.open("https://blc.gacorbos88pr.blog/register?ref=GS2ABAD018U7");}
 function linkmusangwin() {window.open("https://tx4n.titanara.shop/");}
 function linkdemen303() {window.open("https://secure.livechatenterprise.com/customer/action/open_chat?license_id=11194722");}
 function linknagatop() {window.open("https://situs-naga.top/daftar/");}
@@ -197,5 +197,6 @@ function linkkw303() {window.open("https://anianiwangi.pages.dev/");}
 function linkcumi787() {window.open("https://www.cumi787.org/amp/");}
 function linkterminal4d() {window.open("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {window.open("https://heylink.me/33judiraja/");}
+
 
 
