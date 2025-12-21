@@ -26,7 +26,7 @@ function linkmusangwin() {window.open("https://www.koilmusangwin.com/register?re
 function linkdemen303() {window.open("https://secure.livechatenterprise.com/customer/action/open_chat?license_id=11194722");}
 function linknagatop() {window.open("https://nagatopkamu.online/register?ref=94128uH");}
 function linkjnt77() {window.open("https://slot-gacor.wordadayarabic.com/wordadayarabic.html");}
-function linkfijislot() {window.open("https://ampfijislot.com/");}
+function linkfijislot() {window.open("https://link6.fijislot7.store/register?ref=VABAAA1007PG");}
 function linkraja168() {window.open("https://lite.link/raja168");}
 function linkmegabandar() {window.open("https://achmadsdfsdf.sbs/megabandarms/");}
 function linkbagus88() {window.open("https://bagus88.pages.dev/");}
@@ -197,6 +197,7 @@ function linkkw303() {window.open("https://anianiwangi.pages.dev/");}
 function linkcumi787() {window.open("https://www.cumi787.org/amp/");}
 function linkterminal4d() {window.open("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {window.open("https://heylink.me/33judiraja/");}
+
 
 
 
