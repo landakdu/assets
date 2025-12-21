@@ -27,14 +27,14 @@ function linkdemen303() {window.open("https://secure.livechatenterprise.com/cust
 function linknagatop() {window.open("https://nagatopkamu.online/register?ref=94128uH");}
 function linkjnt77() {window.open("https://slot-gacor.wordadayarabic.com/wordadayarabic.html");}
 function linkfijislot() {window.open("https://link6.fijislot7.store/register?ref=VABAAA1007PG");}
-function linkraja168() {window.open("https://lite.link/raja168");}
+function linkraja168() {window.open("https://link12.raja168l.fit/register?ref=MKPAFAA00O6K");}
 function linkmegabandar() {window.open("https://achmadsdfsdf.sbs/megabandarms/");}
 function linkbagus88() {window.open("https://bagus88.pages.dev/");}
-function linkneo177() {window.open("https://heylink.me/NEO177.gacor/");}
-function linkkiw69() {window.open("https://cli.re/kiw69");}
-function linkmpo333() {window.open("https://mpo333.pages.dev/");}
-function linkrajampo() {window.open("https://heylink.me/rajampo-alternatif/");}
-function linkamavi88() {window.open("https://amavi88-167.pages.dev/");}
+function linkneo177() {window.open("https://neo177berkumandang.com/register?ref=babisexy");}
+function linkkiw69() {window.open("https://domkiw69.com/register?ref=E3MDNAC00728");}
+function linkmpo333() {window.open("https://mpoterbaru333.website/register/R9D37GGR");}
+function linkrajampo() {window.open("https://link02.raj4mpo.com/register/L7NQ26DL");}
+function linkamavi88() {window.open("https://zuckamavi.website/register/PB2LRN11");}
 function linkbaron4d() {window.open("https://heylink.me/linkbaron4d");}
 function linkmansion77() {window.open("https://campus-zoro.pages.dev/");}
 function linkjawara88() {window.open("https://shawdojawara88-ampofficialmansion.pages.dev/");}
@@ -197,6 +197,7 @@ function linkkw303() {window.open("https://anianiwangi.pages.dev/");}
 function linkcumi787() {window.open("https://www.cumi787.org/amp/");}
 function linkterminal4d() {window.open("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {window.open("https://heylink.me/33judiraja/");}
+
 
 
 
