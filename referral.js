@@ -90,7 +90,7 @@ function linkmarathonbet() {location.replace("https://marathon-bet.net/");}
 function link12bet() {location.replace("https://secure.livechatinc.com/licence/7903821/v2/open_chat.cgi?group=5&name=");}
 function link1xbet() {location.replace("https://1xlite-837593.top/");}
 function linkshiokambing() {location.replace("https://manjurshiokambing.com/amp/");}
-function linkshiokambing2() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=10969007&group=0/");}
+function linkshiokambing2() {location.replace("http://t.ly/sk2/");}
 function linkshiokambing5() {location.replace("https://tongkatkuning.com/amp/");}
 function linkrajatoto3() {location.replace("https://amprajatoto3.org/amp/");}
 function linkserbacasino() {location.replace("https://pub-3ca7ded51a2643c88ed9830186fe8834.r2.dev/serbacasinoamp.html");}
@@ -198,6 +198,7 @@ function linkkw303() {location.replace("https://anianiwangi.pages.dev/");}
 function linkcumi787() {location.replace("https://www.cumi787.org/amp/");}
 function linkterminal4d() {location.replace("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {location.replace("https://heylink.me/33judiraja/");}
+
 
 
 
