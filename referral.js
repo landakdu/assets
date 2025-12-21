@@ -17,7 +17,7 @@ function link8bettingan() {window.open("https://link1.bettingan.vip/");}
 function linkmpo08() {window.open("https://mpo08dna.xyz/register/Q2RDGN20");}
 function linkmpo888() {window.open("https://lp2.mpo888games.link/register/437GR640");}
 function linkdewatogel() {window.open("https://vartox.pro/palazzoprincemalta.com/");}
-function linkwis77() {window.open("https://wis77webapp.b-cdn.net/");}
+function linkwis77() {window.open("https://wis77xmas.com/register/MJ54RJPR");}
 function linkbento4d() {window.open("https://heylink.me/bento4dtoto/");}
 function linkmpo111() {window.open("https://mpo111audi.pages.dev/");}
 function linkzona66() {window.open("https://zona66.pages.dev/");}
@@ -197,4 +197,5 @@ function linkkw303() {window.open("https://anianiwangi.pages.dev/");}
 function linkcumi787() {window.open("https://www.cumi787.org/amp/");}
 function linkterminal4d() {window.open("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {window.open("https://heylink.me/33judiraja/");}
+
 
