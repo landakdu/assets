@@ -22,7 +22,7 @@ function linkbento4d() {window.open("https://heylink.me/bento4dtoto/");}
 function linkmpo111() {window.open("https://mpo111gz.com/register/67053GLN");}
 function linkzona66() {window.open("https://zona66a9.site/register/L7NQ2837");}
 function linkgacorbos88() {window.open("https://blc.gacorbos88pr.blog/register?ref=GS2ABAD018U7");}
-function linkmusangwin() {window.open("https://tx4n.titanara.shop/");}
+function linkmusangwin() {window.open("https://www.koilmusangwin.com/register?ref=2M3TNAFG0EVH");}
 function linkdemen303() {window.open("https://secure.livechatenterprise.com/customer/action/open_chat?license_id=11194722");}
 function linknagatop() {window.open("https://situs-naga.top/daftar/");}
 function linkjnt77() {window.open("https://slot-gacor.wordadayarabic.com/wordadayarabic.html");}
@@ -197,6 +197,7 @@ function linkkw303() {window.open("https://anianiwangi.pages.dev/");}
 function linkcumi787() {window.open("https://www.cumi787.org/amp/");}
 function linkterminal4d() {window.open("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {window.open("https://heylink.me/33judiraja/");}
+
 
 
 
