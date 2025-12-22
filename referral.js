@@ -94,7 +94,7 @@ function linkmaxwin88() {window.open("https://secure.livechatinc.com/customer/ac
 function linktektok77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16014690&group=0");}
 function linkmarathonbet() {window.open("https://livechatserviceai.com/en/omnichannel/chat?origin=https%253A%252F%252F");}
 function link12bet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=7903821&group=5");}
-function link1xbet() {window.open("https://1xlite-837593.top/");}
+function link1xbet() {window.open("https://t.me/Retail_team_Main");}
 function linkshiokambing() {window.open("https://manjurshiokambing.com/amp/");}
 function linkshiokambing2() {window.open("http://t.ly/sk2/");}
 function linkshiokambing5() {window.open("https://tongkatkuning.com/amp/");}
@@ -205,6 +205,7 @@ function linkkw303() {window.open("https://anianiwangi.pages.dev/");}
 function linkcumi787() {window.open("https://www.cumi787.org/amp/");}
 function linkterminal4d() {window.open("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {window.open("https://heylink.me/33judiraja/");}
+
 
 
 
