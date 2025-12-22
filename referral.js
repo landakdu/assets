@@ -41,7 +41,7 @@ function linkjawara88() {window.open("https://shawdojawara88-ampofficialmansion.
 function linkmega38() {window.open("https://mega38botcom.mega38ofc.workers.dev/");}
 function linkgacor88() {window.open("https://mskgcr.org/");}
 function linksgpslot() {window.open("https://sgpslot-gacor.pages.dev/amp");}
-function linkmpo777() {window.open("https://app.chaport.com/widget/show.html?appid=6756ca26ff4b1e466bd325f7&");}
+function linkmpo777() {window.open("https://mpo777guard.com/register/R9D37PR2");}
 function linkkingtoto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15376176&group=0");}
 function linkdewasloto() {window.open("https://akseswin.win/DEWASLOTO/");}
 function linktwinbet() {window.open("https://www.twinsbet.lt/");}
@@ -197,6 +197,7 @@ function linkkw303() {window.open("https://anianiwangi.pages.dev/");}
 function linkcumi787() {window.open("https://www.cumi787.org/amp/");}
 function linkterminal4d() {window.open("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {window.open("https://heylink.me/33judiraja/");}
+
 
 
 
