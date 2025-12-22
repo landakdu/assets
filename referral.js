@@ -1,5 +1,5 @@
 /*
-Jika landing page diarahkan ke halaman lain, itu berarti situs tersebut tidak memperbolehkan saya menggunakan sistem referral. Oleh karena itu, saya terpaksa mengalihkan member ke ruang rekomendasi berbagai situs yang berisi link dan live chat.
+Jika landing page diarahkan ke halaman lain, itu berarti situs tersebut tidak memperbolehkan saya menggunakan sistem referral denga berbagaialasan. Oleh karena itu, saya terpaksa mengalihkan member ke ruang rekomendasi berbagai situs yang berisi link dan live chat.
 
 Jika member tersebut memang setia, tentu ia akan menemukan live chat dari situs yang dimaksud. Namun, jika member memilih untuk berpindah, itu adalah pilihan pribadi mereka dan bukan kesalahan saya.
 
@@ -79,11 +79,11 @@ function linkbk8() {window.open("https://vue.livesupportbs.com/chatwindow.aspx?s
 function linkjackpot168() {window.open("https://secure.livechatinc.com/licence/14602758/v2/open_chat.cgi");}
 function linktkp303() {window.open("https://tkp303link.online/?ref=babisexy&p=h");}
 function linkpentaslot() {window.open("https://apenta12.xyz/?ref=babisexy");}
-function linkgaza88() {window.open("https://r-amp.site/gaza/index.html");}
-function linkcabe777() {window.open("https://ampcabe777.com/yagumojinjya/");}
-function linkneko9() {window.open("https://heylink.me/loginneko9/");}
+function linkgaza88() {window.open("https://gaza23.sbs/?ref=babisexy");}
+function linkcabe777() {window.open("https://cabe777gacor4.top/register/0K71JP0Q");}
+function linkneko9() {window.open("https://neko9membara.com/register?ref=babisexy");}
 function linkqqbos99x() {window.open("https://qqbos99.id/amp/");}
-function linkboss177() {window.open("https://tawk.to/chat/658aa00d07843602b80594c3/1hiio2eb7");}
+function linkboss177() {window.open("https://boss177loyal.com/register?ref=babisexy");}
 function linkantiktoto() {window.open("https://antiktotoresmi.pages.dev/");}
 function linkscbet88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=10515642&group=0");}
 function linksinggah4d() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15567714&group=0");}
@@ -205,6 +205,7 @@ function linkkw303() {window.open("https://anianiwangi.pages.dev/");}
 function linkcumi787() {window.open("https://www.cumi787.org/amp/");}
 function linkterminal4d() {window.open("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {window.open("https://heylink.me/33judiraja/");}
+
 
 
 
