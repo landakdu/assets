@@ -1,9 +1,9 @@
 /*
-Jika landing page diarahkan ke halaman lain, itu berarti situs tersebut tidak memperbolehkan saya menggunakan sistem referral denga berbagaialasan. Oleh karena itu, saya terpaksa mengalihkan member ke ruang rekomendasi berbagai situs yang berisi link dan live chat.
+Jika landing page diarahkan ke halaman ini, itu berarti situsnya tidak memperbolehkan saya mengikuti sistem referral denga berbagaialasan. Oleh karena itu, saya terpaksa mengalihkan member ke ruang ini agar member berusaha sendiri mencari livechat situs anda.
 
-Jika member tersebut memang setia, tentu ia akan menemukan live chat dari situs yang dimaksud. Namun, jika member memilih untuk berpindah, itu adalah pilihan pribadi mereka dan bukan kesalahan saya.
+Jika member tersebut memang setia, tentu ia akan menemukan live chat situs anda di sini. Namun, jika member memilih untuk berpindah, itu adalah pilihan pribadi mereka sendiri.
 
-Saya sudah bersusah payah membuat landing page dengan tujuan mencari sedikit rezeki, tetapi justru mendapat gangguan. Selain itu, saya juga tidak pernah mengarahkan member untuk bermain di situs tertentu, karena sepenuhnya itu adalah pilihan mereka sendiri.
+Saya sudah bersusah payah membuat landing page dengan tujuan mencari sedikit rezeki dari referral dan saya juga tidak mau pekerjaan saya sia sia. Selain itu, saya juga tidak pernah mengarahkan member untuk bermain di situs tertentu, karena sepenuhnya itu adalah pilihan mereka sendiri.
 */
 
 function sewanamax() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0?");}
@@ -205,6 +205,7 @@ function linkkw303() {window.open("https://anianiwangi.pages.dev/");}
 function linkcumi787() {window.open("https://www.cumi787.org/amp/");}
 function linkterminal4d() {window.open("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {window.open("https://heylink.me/33judiraja/");}
+
 
 
 
