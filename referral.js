@@ -134,7 +134,7 @@ function linkhoki77() {window.open("https://chat.onechat.dev/index.html?id=a250d
 function linkunoplay() {window.open("https://unoplay7star.xyz?ref=747339CF");}
 function linkdewa234() {window.open("https://dewa234cara.com/register/Q268BG84");}
 function linkjudi388() {window.open("https://ribujd.top/register?reff=babisexy");}
-function link8togel() {window.open("https://heylink.me/Delapanteofc");}
+function link8togel() {window.open("https://8tburn.com/referral/BABISEXY");}
 function linkdewakoin() {window.open("https://dewakoin-20.org/");}
 function linkkas138() {window.open("https://kas138-mobile.com/");}
 function linkole777() {window.open("https://edutechhub.io/workplace/loginke1.html");}
@@ -205,6 +205,7 @@ function linkkw303() {window.open("https://anianiwangi.pages.dev/");}
 function linkcumi787() {window.open("https://www.cumi787.org/amp/");}
 function linkterminal4d() {window.open("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {window.open("https://heylink.me/33judiraja/");}
+
 
 
 
