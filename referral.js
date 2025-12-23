@@ -165,7 +165,7 @@ function linkdewi138() {window.open("https://secure.livechatinc.com/customer/act
 function linkjoin999() {window.open("https://fortune.playjoin999.space/register?ref=GCAEAA49146");}
 function linkpari303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19275738&group=0");}
 function linkrajazeus() {window.open("https://tawk.to/chat/64baa30bcc26a871b029ec71/1h5sgppns?");}
-function linksigma168() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=9560705&group=0");}
+function linksigma168() {window.open("https://sigma168-dragon.com/register?ref=Z9oXzcjU");}
 function linkjual303() {window.open("https://api.whatsapp.com/send/?phone=6281264762148&text&type=phone_number&app_absent=0");}
 function linkpusatjudionline() {window.open("https://pjosurvivalamp.com/amp/");}
 function linkkaratetoto() {window.open("https://top1slot.pages.dev/");}
@@ -205,6 +205,7 @@ function linkkw303() {window.open("https://anianiwangi.pages.dev/");}
 function linkcumi787() {window.open("https://www.cumi787.org/amp/");}
 function linkterminal4d() {window.open("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {window.open("https://heylink.me/33judiraja/");}
+
 
 
 
