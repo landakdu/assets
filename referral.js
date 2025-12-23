@@ -44,16 +44,16 @@ function linkmpo333() {window.open("https://mpoterbaru333.website/register/R9D37
 function linkrajampo() {window.open("https://link02.raj4mpo.com/register/L7NQ26DL");}
 function linkamavi88() {window.open("https://zuckamavi.website/register/PB2LRN11");}
 function linkbaron4d() {window.open("https://heylink.me/linkbaron4d");}
-function linkmansion77() {window.open("https://campus-zoro.pages.dev/");}
+function linkmansion77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19339010&group=0");}
 function linkjawara88() {window.open("https://www.partjwr88.site/register?ref=ZABABAW00904");}
-function linkmega38() {window.open("https://mega38botcom.mega38ofc.workers.dev/");}
-function linkgacor88() {window.open("https://mskgcr.org/");}
-function linksgpslot() {window.open("https://sgpslot-gacor.pages.dev/amp");}
+function linkmega38() {window.open("https://tawk.to/chat/64bad53bcc26a871b02a3c54/1h5st1sco?");}
+function linkgacor88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19134872&group=0");}
+function linksgpslot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14257701&group=0");}
 function linkmpo777() {window.open("https://mpo777guard.com/register/R9D37PR2");}
 function linkkingtoto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15376176&group=0");}
 function linkdewasloto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19134967&group=0");}
 function linktwinbet() {window.open("https://www.twinsbet.lt/");}
-function linkw77() {window.open("https://ampw77.com/closetheskyoverukraine/");}
+function linkw77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14979834&group=0");}
 function linkajr88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14452983&group=0");}
 function linkhoki178() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14312892&group=0");}
 function linkdewagacor77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19134899&group=0");}
@@ -71,10 +71,10 @@ function linkeraplay88() {window.open("https://eraply888.com/?ref=babisexy");}
 function linkjitu77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19134327&group=0");}
 function linkkudetabet98() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19100937&group=0");}
 function linkfungame777() {window.open("https://secure.livechatinc.com/licence/13061724/v2/open_chat.cgi");}
-function linkm88() {window.open("https://www.m88bhz.com/register?RafID=13259422");}
+function linkm88() {window.open("https://www.facebook.com/fifaworldcupnews2026/");}
 function linkdafabet() {window.open("https://www.cs-livechat.com/webchat/v3/chat/id/dafabet");}
 function linkrahayu88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15103890&group=0");}
-function linkagen288() {window.open("https://agen288.me/");}
+function linkagen288() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13767375&group=0");}
 function linkbk8() {window.open("https://vue.livesupportbs.com/chatwindow.aspx?siteId=5000379&chatGroup=1&planId=c62215c6-37f8-4481-a2ac-e2571cf0fd34#");}
 function linkjackpot168() {window.open("https://secure.livechatinc.com/licence/14602758/v2/open_chat.cgi");}
 function linktkp303() {window.open("https://tkp303link.online/?ref=babisexy&p=h");}
@@ -205,6 +205,7 @@ function linkkw303() {window.open("https://anianiwangi.pages.dev/");}
 function linkcumi787() {window.open("https://www.cumi787.org/amp/");}
 function linkterminal4d() {window.open("https://linktr.ee/terminal4d_1");}
 function linkrajajudi33() {window.open("https://heylink.me/33judiraja/");}
+
 
 
 
