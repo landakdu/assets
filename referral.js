@@ -203,7 +203,8 @@ function linkslotthailand() {window.open("https://roosterswpb.com/register?refer
 function linkkw303() {window.open("https://situskw303.com/?ref=babisexy");}
 function linkcumi787() {window.open("https://1cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dtoto.online/register?referral_code=babisexy");}
-function linkrajajudi33() {window.open("https://heylink.me/33judiraja/");}
+function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+
 
 
 
