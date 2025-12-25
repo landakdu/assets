@@ -150,7 +150,7 @@ function linkmposport() {window.open("https://01.mposport.games/register/J5K2PN3
 function linkmposlot() {window.open("https://mposlotsor.com/register/DRLD3026");}
 function linkmpopoker() {window.open("https://mpopoker.com/");}
 function linkmpogacor() {window.open("https://a4.mpogacorjoss.store/register/G91ND59B");}
-function linkmpo1221() {window.open("https://mpo1221kumpul.net/register/5M0N59KP");}
+function linkmpo1221() {window.open("https://mpo1221lagi.net/register/5M0N59KP");}
 function linkmpo2121() {window.open("https://donutresto2121.net/register/6705P15J");}
 function linkmpo1881() {window.open("https://mpomol1881.com/register/DRLD31RJ");}
 function linkmpo88asia() {window.open("https://mpo88asiathree.org/register/6705PB91");}
@@ -205,6 +205,7 @@ function linkkw303() {window.open("https://situskw303.com/?ref=babisexy");}
 function linkcumi787() {window.open("https://1cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dtoto.online/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://heylink.me/33judiraja/");}
+
 
 
 
