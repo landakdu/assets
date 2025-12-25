@@ -7,6 +7,22 @@ Saya sudah bersusah payah membuat landing page dengan tujuan mencari sedikit rez
 */
 
 function sewanamax() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0?");}
+function linkvespa69() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=15586902&group=0");}
+function linknuhunslot() {location.replace("https://nuhunslot.co/?Ref=8AuFNHky");}
+function linkratukidul88() {location.replace("https://ratukidul88official.com/?ref=babisexy");}
+function linkrokokbet() {location.replace("https://rokokbetcoba.live/register?referral_code=babisexy");}
+function linksloto89() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=17052453&group=0");}
+function linkkampungbet() {location.replace("https://kampungdiatas.com/daftar?ref_id=d58f8fa7");}
+function linktexas88() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=18533646&group=0");}
+function linkayamjp() {location.replace("https://et.ayamjpgege.com/?ref=babisexy");}
+function linkwindah99() {location.replace("https://slotwindah99ag.info/ref/?rid=rf1n95ca092");}
+function linkmadu303() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=12836178&group=0");}
+function linksamosir88() {location.replace("https://secure.livechatenterprise.com/licence/14991504/v2/open_chat.cgi");}
+function linktauslot88() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=13471620&group=0");}
+function linkminitoto() {location.replace("https://mininatal.com/register?referral_code=babisexy");}
+function linkrans4d() {location.replace("https://kezcqswl8q.rans4official.com/?ref=babisexy");}
+function linksatelittogel() {location.replace("http://satelit36.tokomajubersama.com/Register.aspx?ref=2728533&aid=22");}
+function linkpele4d() {location.replace("https://gampangmenangdipele4d.xyz/?ref=babisexy");}
 function linkprimatoto() {location.replace("https://pmtghacor5.ink/register?referral_code=babisexy");}
 function link12naga() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=19293391&group=0");}
 function linktokekwin() {window.open("https://tokekwinmerayap.com/daftar?ref=babisexy");}
@@ -207,6 +223,7 @@ function linkkw303() {window.open("https://situskw303.com/?ref=babisexy");}
 function linkcumi787() {window.open("https://1cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dtoto.online/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+
 
 
 
