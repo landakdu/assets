@@ -8,6 +8,9 @@ Saya sudah bersusah payah membuat landing page dengan tujuan mencari sedikit rez
 
 function sewanamax() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0?");}
 function link() {window.open("#");}
+function linkdewa138() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19183286&group=0");}
+function linkpreman69() {window.open("https://preman69max.com/daftar?ref=babisexy");}
+function linkpgs77() {window.open("https://secure.livechatenterprise.com/customer/action/open_chat?license_id=17806284");}
 function linkleoslot88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14859759&group=0");}
 function linkwdyuk() {window.open("https://wdyukaja.com/20241114/?referralid=babisexy");}
 function linkvespa69() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15586902&group=0");}
@@ -226,5 +229,6 @@ function linkkw303() {window.open("https://situskw303.com/?ref=babisexy");}
 function linkcumi787() {window.open("https://1cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dtoto.online/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+
 
 
