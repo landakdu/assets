@@ -108,7 +108,7 @@ function linkpintutogel() {window.open("https://pintutogelone.it.com/register?re
 function linknyaitogel() {window.open("https://nyaimacau.it.com/register?referral_code=babisexy");}
 function linkaurajp() {window.open("https://aurajp148.makeup/?ref=babisexy");}
 function linkdauntogel() {window.open("https://xxxdaun.com/register?referral_code=babisexy");}
-function linkpiontogel() {window.open("https://pionlala2.it.com/register?referral_code=babisexy);}
+function linkpiontogel() {window.open("https://pionlala2.it.com/register?referral_code=babisexy");}
 function linkjadijp() {window.open("https://jadijppastitop.schlepzig.com/?ref=babisexy");}
 function linkcvtogel() {window.open("https://ffm4fvs7vn.caricvtogel.pro/register?referral_code=babisexy");}
 function linkmpo555() {window.open("https://mpo555bisnis.com/register/N7GRRDMG");}
@@ -204,6 +204,7 @@ function linkkw303() {window.open("https://situskw303.com/?ref=babisexy");}
 function linkcumi787() {window.open("https://1cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dtoto.online/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://heylink.me/33judiraja/");}
+
 
 
 
