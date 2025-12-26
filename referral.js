@@ -8,6 +8,7 @@ Saya sudah bersusah payah membuat landing page dengan tujuan mencari sedikit rez
 
 function sewanamax() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0?");}
 function link() {window.open("#");}
+function linkjnt777() {window.open("https://link04.aksesjnt777.com/register?ref=zfPtLXt");}
 function linkpanda88() {window.open("https://tawk.to/chat/662d148ca0c6737bd131a56e/1hsg1ghcc?");}
 function linkslot123() {window.open("https://secure.livechatinc.com/licence/16961703/v2/open_chat.cgi");}
 function linkdewa138() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19183286&group=0");}
@@ -59,7 +60,7 @@ function linkgacorbos88() {window.open("https://blc.gacorbos88pr.blog/register?r
 function linkmusangwin() {window.open("https://www.koilmusangwin.com/register?ref=2M3TNAFG0EVH");}
 function linkdemen303() {window.open("https://secure.livechatenterprise.com/customer/action/open_chat?license_id=11194722");}
 function linknagatop() {window.open("https://nagatopkamu.online/register?ref=94128uH");}
-function linkjnt77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15329694&group=0");}
+function linkjnt77() {window.open("https://jnt77tuesdayjackpot.com/daftar?ref_id=d58f8fa7");}
 function linkfijislot() {window.open("https://link6.fijislot7.store/register?ref=VABAAA1007PG");}
 function linkraja168() {window.open("https://link12.raja168l.fit/register?ref=MKPAFAA00O6K");}
 function linkmegabandar() {window.open("https://achmadsdfsdf.sbs/megabandarms/");}
@@ -231,6 +232,7 @@ function linkkw303() {window.open("https://situskw303.com/?ref=babisexy");}
 function linkcumi787() {window.open("https://1cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dtoto.online/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+
 
 
 
