@@ -17,13 +17,13 @@ function linkpgs77() {window.open("https://secure.livechatenterprise.com/custome
 function linkleoslot88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14859759&group=0");}
 function linkwdyuk() {window.open("https://wdyukaja.com/20241114/?referralid=babisexy");}
 function linkvespa69() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15586902&group=0");}
-function linknuhunslot() {window.open("https://nuhunslot.co/?Ref=8AuFNHky");}
+function linknuhunslot() {window.open("https://nuhunslott.homes/?Ref=8AuFNHky");}
 function linkratukidul88() {window.open("https://ratukidul88official.com/?ref=babisexy");}
 function linkrokokbet() {window.open("https://rokokbetcoba.live/register?referral_code=babisexy");}
 function linksloto89() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17052453&group=0");}
 function linkkampungbet() {window.open("https://kampungdiatas.com/daftar?ref_id=d58f8fa7");}
 function linktexas88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18533646&group=0");}
-function linkayamjp() {window.open("https://et.ayamjpgege.com/?ref=babisexy");}
+function linkayamjp() {window.open("https://ev.ayamjpgege.com/?ref=babisexy");}
 function linkwindah99() {window.open("https://slotwindah99ag.info/ref/?rid=rf1n95ca092");}
 function linkmadu303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12836178&group=0");}
 function linksamosir88() {window.open("https://secure.livechatenterprise.com/licence/14991504/v2/open_chat.cgi");}
@@ -116,9 +116,9 @@ function linkantiktoto() {window.open("https://nativeantik04.shop/register?refer
 function linkscbet88() {window.open("https://sukahitam2.store/ref/?rid=rf1vQ5c2b68");}
 function linksinggah4d() {window.open("https://singgah4d21.com/?ref=babisexy");}
 function linkindoagen188() {window.open("https://indoagent188.cv/register/G91NBMR3");}
-function linkjoki55() {window.open("https://jk55gsc.store/register?ref=COXGNBO00197");}
+function linkjoki55() {window.open("https://jk55wwbss.store/register?ref=COXGNBO00197");}
 function linknusabet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=7982011&group=0");}
-function linkmaxwin88() {window.open("https://maxwin88famous.homes/ref/?rid=rf15jada667");}
+function linkmaxwin88() {window.open("https://maxwin88famous.mom/ref/?rid=rf15jada667");}
 function linktektok77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16014690&group=0");}
 function linkmarathonbet() {window.open("https://livechatserviceai.com/en/omnichannel/chat?origin=https%253A%252F%252F");}
 function link12bet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=7903821&group=5");}
@@ -173,7 +173,7 @@ function linkhokiwin() {window.open("https://hokiwinlife.website/register/4372MN
 function linkmpocasino() {window.open("https://mpocasino-easywin.com/register/J5K2PQG6");}
 function linkolxtoto() {window.open("https://duatiga12.olxtoto.io/register?referral_code=babisexy");}
 function linkratu89() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13258053&group=0");}
-function link8bettingan() {window.open("https://link5.bettingan.vip/register?ref=A3MZLAD001VE");}
+function link8bettingan() {window.open("https://link7.bettingan.vip/register?ref=A3MZLAD001VE");}
 function linkmposport() {window.open("https://01.mposport.games/register/J5K2PN3M");}
 function linkmposlot() {window.open("https://mposlotsor.com/register/DRLD3026");}
 function linkmpopoker() {window.open("https://mpopoker.com/");}
@@ -232,6 +232,7 @@ function linkkw303() {window.open("https://situskw303.com/?ref=babisexy");}
 function linkcumi787() {window.open("https://1cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dtoto.online/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+
 
 
 
