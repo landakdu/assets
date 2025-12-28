@@ -1,9 +1,5 @@
 /*
-Jika landing page diarahkan ke halaman ini, itu berarti situsnya tidak memperbolehkan saya mengikuti sistem referral denga berbagaialasan. Oleh karena itu, saya terpaksa mengalihkan member ke ruang ini agar member berusaha sendiri mencari livechat situs anda.
-
-Jika member tersebut memang setia, tentu ia akan menemukan live chat situs anda di sini. Namun, jika member memilih untuk berpindah, itu adalah pilihan pribadi mereka sendiri.
-
-Saya sudah bersusah payah membuat landing page dengan tujuan mencari sedikit rezeki dari referral dan saya juga tidak mau pekerjaan saya sia sia. Selain itu, saya juga tidak pernah mengarahkan member untuk bermain di situs tertentu, karena sepenuhnya itu adalah pilihan mereka sendiri.
+Jika landing page mengarah ke halaman ini, hal tersebut disebabkan karena situs Anda tidak memperbolehkan saya mengikuti referral. Oleh karena itu, saya terpaksa mengalihkan member ke halaman ini agar mereka dapat mencari sendiri LIVECHAT situs Anda. Saya tidak ingin pekerjaan yang saya lakukan menjadi sia-sia tanpa dibayar. Saya juga tidak menganjurkan situs tertentu kepada semua member yang datang; keputusan untuk tetap setia atau berpindah sepenuhnya merupakan pilihan masing-masing member.
 */
 
 function sewanamax() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0?");}
@@ -232,6 +228,7 @@ function linkkw303() {window.open("https://situskw303.com/?ref=babisexy");}
 function linkcumi787() {window.open("https://1cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dtoto.online/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+
 
 
 
