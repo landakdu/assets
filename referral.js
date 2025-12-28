@@ -45,7 +45,7 @@ function linkkijangwin() {window.open("http://spiritkijangwin-1reff.shop/daftar?
 function linkaquaslot() {window.open("https://aquaslot10.xyz/?ref=babisexy");}
 function linkcoblos4d() {window.open("https://v15.coblos4dbet.site/?ref=babisexy");}
 function linkkadobet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18351249&group=0");}
-function linkmpo222() {window.open("https://mpo222enterprise.vip/register/JK86G0Y4");}
+function linkmpo222() {window.open("https://mpo222floq.com/register/JK86G0Y4");}
 function link303hoki() {window.open("https://eworldexternal.com/register/B48RPJDN");}
 function linkjet88bet() {window.open("https://jet88jac.site/?ref=babisexy");}
 function linkmpo369() {window.open("https://mpo369bj.com/register/JQPK80KM");}
@@ -181,8 +181,8 @@ function linkmpogacor() {window.open("https://a4.mpogacorjoss.store/register/G91
 function linkmpo1221() {window.open("https://mpo1221int.net/register/5M0N59KP");}
 function linkmpo2121() {window.open("https://donutresto2121.net/register/6705P15J");}
 function linkmpo1881() {window.open("https://mpolek1881.com/register/DRLD31RJ");}
-function linkmpo88asia() {window.open("https://mpo88asiathree.org/register/6705PB91");}
-function linkmpo383() {window.open("https://mpo383-ggg.com/register/B4L1R211");}
+function linkmpo88asia() {window.open("https://mpo88asiamancur.com/register/6705PB91");}
+function linkmpo383() {window.open("https://www.mpo383-eee.com/register/B4L1R211");}
 function linknexus88() {window.open("https://www.facebook.com/NexusGaming88");}
 function linkareabola() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=6747761&group=0");}
 function linkagenliga() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=6785201&group=0");}
@@ -232,6 +232,7 @@ function linkkw303() {window.open("https://situskw303.com/?ref=babisexy");}
 function linkcumi787() {window.open("https://1cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dtoto.online/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+
 
 
 
