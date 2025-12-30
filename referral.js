@@ -216,7 +216,7 @@ function linkapibet() {window.open("https://secure.livechatinc.com/customer/acti
 function linkmaniakslot() {window.open("https://chat.onechat.dev/index.html?id=cdf394dd-5670-40fa-acd5-d6fc12bb49b3&embed=1");}
 function linkgwinbola() {window.open("https://gwinbola88.site/?ref=babisexy&p=h");}
 function linkyoyo88() {window.open("https://yoyo88slot.store/register?ref=mPNzLV0");}
-function linksarang777() {window.open("https://agensarang.pro/?Ref=QVOjdLHP");}
+function linksarang777() {window.open("https://linkdamai.pro/?Ref=QVOjdLHP");}
 function linknagahoki88() {window.open("https://situs.nagahoki88-pro.online/register?ref=GCAAAA577414");}
 function linknvmslot898() {window.open("https://amp-nvmslot898.com/amp/1/");}
 function linkslotthailand() {window.open("https://roosterswpb.com/register?referral=babisexy");}
@@ -224,6 +224,7 @@ function linkkw303() {window.open("https://situskw303.com/?ref=babisexy");}
 function linkcumi787() {window.open("https://1cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dtoto.online/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+
 
 
 
