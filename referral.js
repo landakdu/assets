@@ -152,7 +152,7 @@ function linksbobet() {window.open("https://callcenter.sbobet.com/LiveChatComCli
 function linksquad777() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19207948&group=0");}
 function linkhoki77() {window.open("https://chat.onechat.dev/index.html?id=a250d98a-91a6-4d1f-94b2-4454eee79876&");}
 function linkunoplay() {window.open("https://unoplay7star.xyz?ref=747339CF");}
-function linkdewa234() {window.open("https://dewa234cara.com/register/Q268BG84");}
+function linkdewa234() {window.open("https://dewa234bukti.com/register/Q268BG84");}
 function linkjudi388() {window.open("https://ribujd.top/register?reff=babisexy");}
 function link8togel() {window.open("https://8tburn.com/referral/BABISEXY");}
 function linkdewakoin() {window.open("https://dewakoin08.com/register?ref=PABAAAP00699");}
@@ -224,6 +224,7 @@ function linkkw303() {window.open("https://situskw303.com/?ref=babisexy");}
 function linkcumi787() {window.open("https://1cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dtoto.online/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+
 
 
 
