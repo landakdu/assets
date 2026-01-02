@@ -39,7 +39,7 @@ function linkcoblos4d() {window.open("https://v15.coblos4dbet.site/?ref=babisexy
 function linkkadobet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18351249&group=0");}
 function linkmpo222() {window.open("https://mpo222capital.com/register/JK86G0Y4");}
 function link303hoki() {window.open("https://eworldexternal.com/register/B48RPJDN");}
-function linkjet88bet() {window.open("https://jet88intel.space/?ref=babisexy");}
+function linkjet88bet() {window.open("https://jet88pas.site/?ref=babisexy");}
 function linkmpo369() {window.open("https://mpo369bj.com/register/JQPK80KM");}
 function linkmpo08() {window.open("https://mpo08dna.xyz/register/Q2RDGN20");}
 function linkmpo888() {window.open("https://lp2.mpo888games.link/register/437GR640");}
@@ -224,6 +224,7 @@ function linkkw303() {window.open("https://situskw303.com/?ref=babisexy");}
 function linkcumi787() {window.open("https://1cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dtoto.online/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+
 
 
 
