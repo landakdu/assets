@@ -9,7 +9,7 @@ function linkpgs77() {window.open("https://secure.livechatenterprise.com/custome
 function linkleoslot88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14859759&group=0");}
 function linkwdyuk() {window.open("https://wdyukaja.com/20241114/?referralid=babisexy");}
 function linkvespa69() {window.open("https://vsp69.agency/register?ref=h3p7Tj7");}
-function linknuhunslot() {window.open("https://nuhunslott.icu/?Ref=8AuFNHky");}
+function linknuhunslot() {window.open("https://nuhunslott.shop/?Ref=8AuFNHky");}
 function linkratukidul88() {window.open("https://ratukidul88official.com/?ref=babisexy");}
 function linkrokokbet() {window.open("https://rokokbetcoba.live/register?referral_code=babisexy");}
 function linksloto89() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17052453&group=0");}
@@ -37,7 +37,7 @@ function linkkijangwin() {window.open("http://spiritkijangwin-1reff.shop/daftar?
 function linkaquaslot() {window.open("https://aquaslot10.xyz/?ref=babisexy");}
 function linkcoblos4d() {window.open("https://v15.coblos4dbet.site/?ref=babisexy");}
 function linkkadobet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18351249&group=0");}
-function linkmpo222() {window.open("https://mpo222capital.com/register/JK86G0Y4");}
+function linkmpo222() {window.open("https://mpo222pastijepe.asia/register/JK86G0Y4");}
 function link303hoki() {window.open("https://eworldexternal.com/register/B48RPJDN");}
 function linkjet88bet() {window.open("https://jet88pas.site/?ref=babisexy");}
 function linkmpo369() {window.open("https://mpo369bj.com/register/JQPK80KM");}
@@ -224,6 +224,7 @@ function linkkw303() {window.open("https://situskw303.com/?ref=babisexy");}
 function linkcumi787() {window.open("https://1cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dplay.store/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+
 
 
 
