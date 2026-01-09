@@ -48,7 +48,7 @@ function linkdewatogel() {window.open("https://besdp46516.dwtku.info/register?re
 function linkwis77() {window.open("https://wis77knight.com/register/MJ54RJPR");}
 function linkbento4d() {window.open("https://heylink.me/bento4dtoto/");}
 function linkmpo111() {window.open("https://mpo111satu.xyz/register/67053GLN");}
-function linkzona66() {window.open("https://zona66a14.site/register/L7NQ2837");}
+function linkzona66() {window.open("https://zona66a19.site/register/L7NQ2837");}
 function linkgacorbos88() {window.open("https://blc.gacorbos88pr.blog/register?ref=GS2ABAD018U7");}
 function linkmusangwin() {window.open("https://www.koilmusangwin.com/register?ref=2M3TNAFG0EVH");}
 function linkdemen303() {window.open("https://demen303old.live/register?ref=Tgh1wAX");}
@@ -225,6 +225,7 @@ function linkkw303() {window.open("https://kw303jp.store/?ref=babisexy");}
 function linkcumi787() {window.open("https://1cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dplay.store/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+
 
 
 
