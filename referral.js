@@ -27,7 +27,7 @@ function linksatelittogel() {window.open("http://satelit36.tokomajubersama.com/R
 function linkpele4d() {window.open("https://akunautogacor.xyz/?ref=babisexy");}
 function linkprimatoto() {window.open("https://primajaya.ink/register?referral_code=babisexy");}
 function link12naga() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19293391&group=0");}
-function linktokekwin() {window.open("https://rumahtokek.com/daftar?ref=babisexy");}
+function linktokekwin() {window.open("https://pohontokek.com/daftar?ref=babisexy");}
 function linkhokiraja() {window.open("https://hokirajafire.ink/daftar?ref=babisexy");}
 function linkpphoki() {window.open("https://pphokimantap.cam/?ref=babisexy");}
 function linkaw8() {window.open("https://www.aw8petir.com/id-id/register?refid=ymbrprab");}
@@ -225,3 +225,4 @@ function linkkw303() {window.open("https://kw303jp.store/?ref=babisexy");}
 function linkcumi787() {window.open("https://1cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dplay.store/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+
