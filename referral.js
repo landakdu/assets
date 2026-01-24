@@ -193,7 +193,7 @@ function linksigma168() {window.open("https://sigma168ok.com/register?ref=Z9oXzc
 function linkjual303() {window.open("https://gacor07.jualan303.com/register?r=rlaw35");}
 function linkpusatjudionline() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14440731&group=0");}
 function linkkaratetoto() {window.open("https://ggkaratetoto.site/register?r=zk174u");}
-function linkwatitoto() {window.open("https://wati.watijakarta.online/?referralid=babisexy");}
+function linkwatitoto() {window.open("https://wati80412.com/?referralid=babisexy");}
 function linkrajamahjong() {window.open("https://www.bs.rajamahjong.store/register?ref=GCAAAJ1075060");}
 function linkhoki88bos() {window.open("https://hoki88bostop.site/ref/?rid=rf1S25c6000");}
 function linkmahjongjp88() {window.open("https://arcanine.mahjongjp88.online/register?ref=GCAAAG264424");}
@@ -228,6 +228,7 @@ function linkkw303() {window.open("https://kw303.live/?ref=babisexy");}
 function linkcumi787() {window.open("https://3cumi787.site/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminaljuara.sbs/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+
 
 
 
