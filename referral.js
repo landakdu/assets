@@ -52,7 +52,7 @@ function linkwis77() {window.open("https://wis77flying.com/register/MJ54RJPR");}
 function linkbento4d() {window.open("https://heylink.me/bento4dtoto/");}
 function linkmpo111() {window.open("https://mpo111satu.xyz/register/67053GLN");}
 function linkzona66() {window.open("https://zona66a3.lol/register/L7NQ2837");}
-function linkgacorbos88() {window.open("https://blc.gacorbos88pr.blog/register?ref=GS2ABAD018U7");}
+function linkgacorbos88() {window.open("https://sbb.gacorbos88nv.com/register?ref=GS2ABAD018U7");}
 function linkmusangwin() {window.open("https://www.koilmusangwin.com/register?ref=2M3TNAFG0EVH");}
 function linkdemen303() {window.open("https://demen303old.live/register?ref=Tgh1wAX");}
 function linknagatop() {window.open("https://nagatopkamu.online/register?ref=94128uH");}
@@ -228,6 +228,7 @@ function linkkw303() {window.open("https://kw303.live/?ref=babisexy");}
 function linkcumi787() {window.open("https://3cumi787.site/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminaljuara.sbs/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+
 
 
 
