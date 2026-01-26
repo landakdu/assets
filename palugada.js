@@ -1,9 +1,9 @@
 var url = Array(
-  "https://palugada-new.pages.dev/",
-  "https://palugada-new.pages.dev/",
-  "https://palugada-new.pages.dev/",
-  "https://palugada-new.pages.dev/",
-  "https://palugada-new.pages.dev/"
+  "https://masuk-bro.pages.dev/",
+  "https://masuk-bro.pages.dev/",
+  "https://masuk-bro.pages.dev/",
+  "https://masuk-bro.pages.dev/",
+  "https://masuk-bro.pages.dev/"
 );
 var rid = "";
 
@@ -24,5 +24,6 @@ function jump() {
         put();
     }
 }
+
 
 jump();
