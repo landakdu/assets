@@ -28,7 +28,7 @@ function linkminitoto() {window.open("https://minikamu.site/register?referral_co
 function linkrans4d() {window.open("https://rans4d-jago.net/?ref=babisexy");}
 function linksatelittogel() {window.open("http://satelit36.tokomajubersama.com/Register.aspx?ref=2728533&aid=22");}
 function linkpele4d() {window.open("https://pele4juara.xyz/?ref=babisexy");}
-function linkprimatoto() {window.open("https://gasprima1.ink/register?referral_code=babisexy");}
+function linkprimatoto() {window.open("https://login1.situsprimatoto.com/register?referral_code=babisexy");}
 function link12naga() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19293391&group=0");}
 function linktokekwin() {window.open("https://tokekwinmaster.com/daftar?ref=babisexy");}
 function linkhokiraja() {window.open("https://hokirajaville.space/daftar?ref=babisexy");}
@@ -48,10 +48,10 @@ function linkmpo369() {window.open("https://mpo369bj.com/register/JQPK80KM");}
 function linkmpo08() {window.open("https://mpo08usd.xyz/register/Q2RDGN20");}
 function linkmpo888() {window.open("https://mpo888enter.com/register/437GR64017");}
 function linkdewatogel() {window.open("https://besdp46516.dwtku.info/register?referral_code=babisexy");}
-function linkwis77() {window.open("https://wis77flying.com/register/MJ54RJPR");}
+function linkwis77() {window.open("https://wis77-mighty.com/register/MJ54RJPR");}
 function linkbento4d() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12186300&group=0");}
 function linkmpo111() {window.open("https://mpo111satu.xyz/register/67053GLN");}
-function linkzona66() {window.open("https://zona66a3.lol/register/L7NQ2837");}
+function linkzona66() {window.open("https://zona66.link/register/L7NQ2837");}
 function linkgacorbos88() {window.open("https://sbb.gacorbos88nv.com/register?ref=GS2ABAD018U7");}
 function linkmusangwin() {window.open("https://www.koilmusangwin.com/register?ref=2M3TNAFG0EVH");}
 function linkdemen303() {window.open("https://demen303old.live/register?ref=Tgh1wAX");}
@@ -164,7 +164,7 @@ function linkkas138() {window.open("https://vip.centralkas138.com/?ref=babisexy"
 function linkole777() {window.open("https://secure.livechatenterprise.com/customer/action/open_chat?license_id=10625422");}
 function link9win() {window.open("https://9wintop7.pro/ref/?rid=rf1R25c5bc1");}
 function linkdewacasino() {window.open("https://dewacsn1bos.site/?ref=babisexy");}
-function linktongtoto() {window.open("https://tongtotomantul.com/register?referral_code=babisexy");}
+function linktongtoto() {window.open("https://tongtotomantra.com/register?referral_code=babisexy");}
 function linkhokiwin() {window.open("https://hokiwinlogina.website/register/4372MNN9");}
 function linkmpocasino() {window.open("https://mpocasino-multi.com/register/J5K2PQG6");}
 function linkolxtoto() {window.open("https://genius2.olxtoto.dev/register?referral_code=babisexy");}
@@ -175,7 +175,7 @@ function linkmposlot() {window.open("https://mposlotjump.xyz/register/DRLD3026")
 function linkmpopoker() {window.open("https://mpopoker.com/");}
 function linkmpogacor() {window.open("https://a4.mpogacorjoss.store/register/G91ND59B");}
 function linkmpo1221() {window.open("https://mpo1221luck.com/register/5M0N59KP");}
-function linkmpo2121() {window.open("https://yourmpo2121.net/register/6705P15J");}
+function linkmpo2121() {window.open("https://yourmpo2121.org/register/6705P15J");}
 function linkmpo1881() {window.open("https://mpocep1881.com/register/DRLD31RJ");}
 function linkmpo88asia() {window.open("https://mpo88asiatwo.net/register/6705PB91");}
 function linkmpo383() {window.open("https://www.mpo383-eee.com/register/B4L1R211");}
@@ -228,6 +228,7 @@ function linkkw303() {window.open("https://kw303.live/?ref=babisexy");}
 function linkcumi787() {window.open("https://3cumi787.site/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminaljuara.sbs/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+
 
 
 
