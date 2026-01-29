@@ -227,7 +227,8 @@ function linkslotthailand() {window.open("https://roosterswpb.com/register?refer
 function linkkw303() {window.open("https://kw303.live/?ref=babisexy");}
 function linkcumi787() {window.open("https://3cumi787.site/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dstars.ink/register?referral_code=babisexy");}
-function linkrajajudi33() {window.open("https://api.whatsapp.com/send/?phone=6287856319466");}
+function linkrajajudi33() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19458017&group=0");}
+
 
 
 
