@@ -122,7 +122,7 @@ function linkboss177() {window.open("https://boss177loyal.com/register?ref=babis
 function linkantiktoto() {window.open("https://alterantik01.shop/register?referral_code=babisexy");}
 function linkscbet88() {window.open("https://jiwacapung.xyz/ref/?rid=rf1vQ5c2b68");}
 function linksinggah4d() {window.open("https://singgah4d87.com/?ref=babisexy");}
-function linkindoagen188() {window.open("https://kopihoki.beauty/register/G91NBMR3");}
+function linkindoagen188() {window.open("https://indoagent188.wiki/register/G91NBMR3");}
 function linkjoki55() {window.open("https://jk55wwbss.store/register?ref=COXGNBO00197");}
 function linknusabet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=7982011&group=0");}
 function linkmaxwin88() {window.open("https://maxwin88cap.online/ref/?rid=rf15jada667");}
@@ -239,6 +239,7 @@ function linkkw303() {window.open("https://kw303.live/?ref=babisexy");}
 function linkcumi787() {window.open("https://3cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dresmi.xyz/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19458017&group=0");}
+
 
 
 
