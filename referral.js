@@ -1,5 +1,5 @@
 function link() {window.open("#");}
-function link() {window.open("#");}
+function linkgacor108() {window.open("https://chat.onechat.dev/index.html?id=d8580ad6-97c6-4382-a361-e16006edd678&embed=1&language=id");}
 function linksultan88() {window.open("https://secure.livechatinc.com/licence/14649837/v2/open_chat.cgi");}
 function linksumo777() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17210631&group=0");}
 function linkjagoan303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18322695&group=0");}
@@ -241,6 +241,7 @@ function linkkw303() {window.open("https://kw303.live/?ref=babisexy");}
 function linkcumi787() {window.open("https://3cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dresmi.xyz/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19458017&group=0");}
+
 
 
 
