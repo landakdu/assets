@@ -81,7 +81,7 @@ function linkrajampo() {window.open("https://link03.raj4mpo.com/register/L7NQ26D
 function linkamavi88() {window.open("https://zuckamavi.website/register/PB2LRN11");}
 function linkbaron4d() {window.open("https://baron26.site/mobile/register?ref=babisexy");}
 function linkmansion77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19339010&group=0");}
-function linkjawara88() {window.open("https://www.tdmjawarabss.store/register?ref=ZABABAW00904");}
+function linkjawara88() {window.open("https://jakartajawaraits.store/register?ref=ZABABAW00904");}
 function linkmega38() {window.open("https://tawk.to/chat/64bad53bcc26a871b02a3c54/1h5st1sco?");}
 function linkgacor88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19134872&group=0");}
 function linksgpslot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14257701&group=0");}
@@ -142,7 +142,7 @@ function linkbetcoinasia() {window.open("https://aygfx36288.btcasia88.vip/?ref=b
 function linkkaikoslot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13433187&group=0");}
 function linkmega55() {window.open("https://link1.mega55indo.com/register?ref=ZGGIGAB0100Y");}
 function linkwishslot() {window.open("https://wish-slot.bond/register?ref=VXZKQR2");}
-function linkpintutogel() {window.open("https://pintutogelwin.com/register?referral_code=babisexy");}
+function linkpintutogel() {window.open("https://pintutogelkita.ink/register?referral_code=babisexy");}
 function linknyaitogel() {window.open("https://nyaimacau.it.com/register?referral_code=babisexy");}
 function linkaurajp() {window.open("https://aurajp148.makeup/?ref=babisexy");}
 function linkdauntogel() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=9074555&group=0");}
@@ -205,7 +205,7 @@ function linkrajazeus() {window.open("https://tawk.to/chat/64baa30bcc26a871b029e
 function linksigma168() {window.open("https://sigma168-kelas.com/register?ref=Z9oXzcjU");}
 function linkjual303() {window.open("https://toto03.jualan303.com/register?r=rlaw35");}
 function linkpusatjudionline() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14440731&group=0");}
-function linkkaratetoto() {window.open("https://listkaratetoto.site/register?r=zk174u");}
+function linkkaratetoto() {window.open("https://senikaratetoto.site/register?r=zk174u");}
 function linkwatitoto() {window.open("https://wati81244.com/?referralid=babisexy");}
 function linkrajamahjong() {window.open("https://www.ab.aktif-rajamahjong.it.com/register?ref=GCAAAJ1075060");}
 function linkhoki88bos() {window.open("https://hoki88bostop.cam/ref/?rid=rf1S25c6000");}
@@ -220,7 +220,7 @@ function linkpanen99() {window.open("https://secure.livechatinc.com/customer/act
 function linkraja288() {window.open("https://amp-raja288-info.pages.dev/amp/");}
 function linkmaxi188() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18906801&group=0");}
 function linkneymar88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16976247&group=0");}
-function linkclickbet88() {window.open("https://jadijuragandiclickbet88.xyz/register?ref=GCADAA213361");}
+function linkclickbet88() {window.open("https://pastiuntungdiclickbet88-02.xyz/register?ref=GCADAA213361");}
 function linkrajapanen() {window.open("https://login.rajapanengacor.pics/register?ref=GCAAAC460822");}
 function linkoyoslot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=11294932&group=0");}
 function linkjudolbet88() {window.open("https://judolbet88sfo.com/register?ref=mXiPOJa");}
@@ -241,6 +241,7 @@ function linkkw303() {window.open("https://kw303.live/?ref=babisexy");}
 function linkcumi787() {window.open("https://3cumi787.forum/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dresmi.xyz/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19458017&group=0");}
+
 
 
 
