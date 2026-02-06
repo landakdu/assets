@@ -38,7 +38,7 @@ function linkpgs77() {window.open("https://secure.livechatenterprise.com/custome
 function linkleoslot88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18966443&group=0");}
 function linkwdyuk() {window.open("https://wd25.site/20241114/?referralid=babisexy");}
 function linkvespa69() {window.open("https://vsp69.academy/register?ref=h3p7Tj7");}
-function linknuhunslot() {window.open("https://nuhunslott.top/?Ref=8AuFNHky");}
+function linknuhunslot() {window.open("https://nuhunslotoke.monster/?Ref=8AuFNHky");}
 function linkratukidul88() {window.open("https://teamratukidul88.xyz/?ref=babisexy");}
 function linkrokokbet() {window.open("https://rokokbetcoba.live/register?referral_code=babisexy");}
 function linksloto89() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17052453&group=0");}
@@ -56,7 +56,7 @@ function linkpele4d() {window.open("https://pele4juara.xyz/?ref=babisexy");}
 function linkprimatoto() {window.open("https://login1.situsprimatoto.com/register?referral_code=babisexy");}
 function link12naga() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19293391&group=0");}
 function linktokekwin() {window.open("https://kenangantokekwin.com/daftar?ref=babisexy");}
-function linkhokiraja() {window.open("https://hokirajaville.space/daftar?ref=babisexy");}
+function linkhokiraja() {window.open("https://hokirajanew.art/daftar?ref=babisexy");}
 function linkpphoki() {window.open("https://pphokimantap.cam/?ref=babisexy");}
 function linkaw8() {window.open("https://www.aw8petir.com/id-id/register?refid=ymbrprab");}
 function linkhoki177() {window.open("https://prohoki177.com/register?ref=babisexy");}
@@ -77,10 +77,10 @@ function linkwis77() {window.open("https://wis77-mighty.com/register/MJ54RJPR");
 function linkbento4d() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12186300&group=0");}
 function linkmpo111() {window.open("https://mpo111satu.xyz/register/67053GLN");}
 function linkzona66() {window.open("https://app.chaport.com/widget/show.html?appid=662499fd96a23d6d64360a18&");}
-function linkgacorbos88() {window.open("https://sprg.gacorbos88pl.com/register?ref=GS2ABAD018U7");}
+function linkgacorbos88() {window.open("https://lns.gacorbos88ln.com/register?ref=GS2ABAD018U7");}
 function linkmusangwin() {window.open("https://www.koilmusangwin.com/register?ref=2M3TNAFG0EVH");}
 function linkdemen303() {window.open("https://demen303old.live/register?ref=Tgh1wAX");}
-function linknagatop() {window.open("https://nagatopkamu.online/register?ref=94128uH");}
+function linknagatop() {window.open("https://nagatopseventeen.online/register?ref=94128uH");}
 function linkjnt77() {window.open("https://jnt77singlejackpot.com/daftar?ref_id=d58f8fa7");}
 function linkfijislot() {window.open("https://link7.fijislot7.store/register?ref=VABAAA1007PG");}
 function linkraja168() {window.open("https://link15.raja168l.fit/register?ref=MKPAFAA00O6K");}
@@ -154,7 +154,7 @@ function linkbetcoinasia() {window.open("https://aygfx36288.btcasia88.vip/?ref=b
 function linkkaikoslot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13433187&group=0");}
 function linkmega55() {window.open("https://link1.mega55indo.com/register?ref=ZGGIGAB0100Y");}
 function linkwishslot() {window.open("https://wish-slot.bond/register?ref=VXZKQR2");}
-function linkpintutogel() {window.open("https://pintutogelkita.ink/register?referral_code=babisexy");}
+function linkpintutogel() {window.open("https://pintutogelwin.it.com/register?referral_code=babisexy");}
 function linknyaitogel() {window.open("https://nyaimacau.it.com/register?referral_code=babisexy");}
 function linkaurajp() {window.open("https://aurajp148.makeup/?ref=babisexy");}
 function linkdauntogel() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=9074555&group=0");}
@@ -218,7 +218,7 @@ function linksigma168() {window.open("https://sigma168-kelas.com/register?ref=Z9
 function linkjual303() {window.open("https://toto03.jualan303.com/register?r=rlaw35");}
 function linkpusatjudionline() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14440731&group=0");}
 function linkkaratetoto() {window.open("https://bandungkaratetoto.site/register?r=zk174u");}
-function linkwatitoto() {window.open("https://wati81244.com/?referralid=babisexy");}
+function linkwatitoto() {window.open("https://wati80586.com/?referralid=babisexy");}
 function linkrajamahjong() {window.open("https://www.ab.aktif-rajamahjong.it.com/register?ref=GCAAAJ1075060");}
 function linkhoki88bos() {window.open("https://hoki88bostop.fun/ref/?rid=rf1S25c6000");}
 function linkmahjongjp88() {window.open("https://arcanine.mahjongjp88.online/register?ref=GCAAAG264424");}
@@ -245,14 +245,15 @@ function linkapibet() {window.open("https://secure.livechatinc.com/customer/acti
 function linkmaniakslot() {window.open("https://chat.onechat.dev/index.html?id=cdf394dd-5670-40fa-acd5-d6fc12bb49b3&embed=1");}
 function linkgwinbola() {window.open("https://gwinbola88.site/?ref=babisexy&p=h");}
 function linkyoyo88() {window.open("https://yoyo88slot.xyz/register?ref=mPNzLV0");}
-function linksarang777() {window.open("https://srg39.info/?Ref=QVOjdLHP");}
+function linksarang777() {window.open("https://srg38.info/?Ref=QVOjdLHP");}
 function linknagahoki88() {window.open("https://super.nagahoki88-pro.space/register?ref=GCAAAA577414");}
 function linknvmslot898() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16951875&group=0");}
 function linkslotthailand() {window.open("https://13.214.22.219/register?referral=babisexy");}
 function linkkw303() {window.open("https://kw303.live/?ref=babisexy");}
 function linkcumi787() {window.open("https://3cumi787.store/daftar?ref_id=d58f8fa7");}
-function linkterminal4d() {window.open("https://terminal4dresmi.xyz/register?referral_code=babisexy");}
+function linkterminal4d() {window.open("https://terminal4dterbaik.live/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19458017&group=0");}
+
 
 
 
