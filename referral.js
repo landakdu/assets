@@ -240,7 +240,7 @@ function linkcupangjp() {window.open("https://es.cupangjpmana.com/?ref=babisexy"
 function linkmurah4d() {window.open("https://murah4dui10.lat/?ref=babisexy");}
 function linkgacor69() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14684805&group=0");}
 function linkslot138() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19377380&group=0");}
-function link888slot() {window.open("https://blakebaileyonline.pages.dev/");}
+function link888slot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17114271&group=0");}
 function linkpanen99() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19374904&group=0");}
 function linkraja288() {window.open("https://amp-raja288-info.pages.dev/amp/");}
 function linkmaxi188() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18906801&group=0");}
@@ -266,6 +266,7 @@ function linkkw303() {window.open("https://kw303.live/?ref=babisexy");}
 function linkcumi787() {window.open("https://3cumi787.store/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dterbaik.live/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19458017&group=0");}
+
 
 
 
