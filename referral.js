@@ -14,7 +14,7 @@ function link() {window.open("#");}
 function link() {window.open("#");}
 function link() {window.open("#");}
 function link() {window.open("#");}
-function link() {window.open("");}
+function linkmarlboro303() {window.open("https://marlboro303.damienkeitel.com/m/");}
 function linkqq889() {window.open("https://tawk.to/chat/6707fa3afa949480961f6fff/1i9rij1pk");}
 function linkzeus379() {window.open("https://tawk.to/chat/650b56e6b1aaa13b7a77fda1/1haq4mtkp");}
 function linkdaduspin() {window.open("https://tawk.to/chat/68667dfb3a23841907cb61e1/1iv85o820");}
@@ -291,6 +291,7 @@ function linkkw303() {window.open("https://kw303.live/?ref=babisexy");}
 function linkcumi787() {window.open("https://3cumi787.space/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dterbaik.live/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19458017&group=0");}
+
 
 
 
