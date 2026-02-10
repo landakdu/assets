@@ -8,7 +8,7 @@ function link() {window.open("#");}
 function link() {window.open("#");}
 function link() {window.open("#");}
 function link() {window.open("#");}
-function link() {window.open("#");}
+function linkraja328() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14502075&group=0");}
 function linkbromoslot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19258169&group=0");}
 function linkcuanwin138() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15014550&group=0");}
 function linkgaruda303() {window.open("https://tawk.to/chat/64baa999cc26a871b029f971/1h5sid06p");}
@@ -291,6 +291,7 @@ function linkkw303() {window.open("https://kw303.live/?ref=babisexy");}
 function linkcumi787() {window.open("https://3cumi787.space/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dterbaik.live/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19458017&group=0");}
+
 
 
 
