@@ -170,7 +170,7 @@ function linkcabe777() {window.open("https://cabe777ai.top/register/0K71JP0Q");}
 function linkneko9() {window.open("https://neko9membara.com/register?ref=babisexy");}
 function linkqqbos99x() {window.open("https://www.senisastra.com/Member/StreamlinedRegister?R=");}
 function linkboss177() {window.open("https://boss177loyal.com/register?ref=babisexy");}
-function linkantiktoto() {window.open("https://alterantik01.shop/register?referral_code=babisexy");}
+function linkantiktoto() {window.open("https://antikgo2.ink/register?referral_code=babisexy");}
 function linkscbet88() {window.open("https://jiwacapung.xyz/ref/?rid=rf1vQ5c2b68");}
 function linksinggah4d() {window.open("https://singgah4d87.com/?ref=babisexy");}
 function linkindoagen188() {window.open("https://kopihoki.beer/register/G91NBMR3");}
@@ -203,7 +203,7 @@ function linkwisdom77() {window.open("https://vip.wisdom77od.shop/?ref=babisexy"
 function linkharbet35() {window.open("https://b1.harbet35.vip/?ref=babisexy");}
 function linkpoa88() {window.open("https://poa88.it.com/?ref=babisexy&p=h");}
 function linkkenzo188() {window.open("https://kenzo188xl.com/register?ref=A3MMMAFFQDOP");}
-function linklembagatoto() {window.open("https://fly.lembagatotosolusi.org/register?referral_code=babisexy");}
+function linklembagatoto() {window.open("https://hoky.lembagatotosolusi.org/register?referral_code=babisexy");}
 function linkroyal123() {window.open("https://royal123ry.com/register?ref=F88M1AN0092E");}
 function linkgacorslot() {window.open("https://gacorslodpro.site/register/670567G8");}
 function linkskslot() {window.open("https://mobilesks.com/register?ref=babisexy");}
@@ -228,7 +228,7 @@ function link9win() {window.open("https://9wintop7.pro/ref/?rid=rf1R25c5bc1");}
 function linkdewacasino() {window.open("https://dewacsnidn1.biz/?ref=babisexy");}
 function linktongtoto() {window.open("https://tongtotomage.com/register?referral_code=babisexy");}
 function linkhokiwin() {window.open("https://hokiwinlogina.website/register/4372MNN9");}
-function linkmpocasino() {window.open("https://mpocasino-joker.com/register/J5K2PQG6");}
+function linkmpocasino() {window.open("https://mpocasino-casino.com/register/J5K2PQG6");}
 function linkolxtoto() {window.open("https://genius2.olxtoto.dev/register?referral_code=babisexy");}
 function linkratu89() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13258053&group=0");}
 function link8bettingan() {window.open("https://url1.btgvvip.com/register?ref=A3MZLAD001VE");}
@@ -257,11 +257,11 @@ function linkpusatjudionline() {window.open("https://secure.livechatinc.com/cust
 function linkkaratetoto() {window.open("https://bandungkaratetoto.site/register?r=zk174u");}
 function linkwatitoto() {window.open("https://wati80546.com/?referralid=babisexy");}
 function linkrajamahjong() {window.open("https://www.ab.aktif-rajamahjong.it.com/register?ref=GCAAAJ1075060");}
-function linkhoki88bos() {window.open("https://hoki88bostop.work/ref/?rid=rf1S25c6000");}
+function linkhoki88bos() {window.open("https://hoki88bostop.ink/ref/?rid=rf1S25c6000");}
 function linkmahjongjp88() {window.open("https://arcanine.mahjongjp88.online/register?ref=GCAAAG264424");}
 function linkolympus88() {window.open("https://chat.onechat.dev/index.html?id=825def6b-d1bd-4175-969d-e7be6d27eec2&embed=1");}
 function linkcupangjp() {window.open("https://es.cupangjpmana.com/?ref=babisexy");}
-function linkmurah4d() {window.open("https://qz9.murah4dlkj.lat/?ref=babisexy");}
+function linkmurah4d() {window.open("https://hub4.murah4dlkj.lat/?ref=babisexy");}
 function linkgacor69() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14684805&group=0");}
 function linkslot138() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19377380&group=0");}
 function link888slot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17114271&group=0");}
@@ -290,6 +290,7 @@ function linkkw303() {window.open("https://kw303.live/?ref=babisexy");}
 function linkcumi787() {window.open("https://4cumi787.site/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dterbaik.live/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19458017&group=0");}
+
 
 
 
