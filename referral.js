@@ -285,11 +285,12 @@ function linkyoyo88() {window.open("https://yoyo88slot.xyz/register?ref=mPNzLV0"
 function linksarang777() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13532673&group=0");}
 function linknagahoki88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17150244&group=0");}
 function linknvmslot898() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16951875&group=0");}
-function linkslotthailand() {window.open("https://13.214.22.219/register?referral=babisexy");}
+function linkslotthailand() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16742517&group=0");}
 function linkkw303() {window.open("https://kw303.live/?ref=babisexy");}
 function linkcumi787() {window.open("https://4cumi787.site/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dpower.rest/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19458017&group=0");}
+
 
 
 
