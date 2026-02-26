@@ -128,7 +128,7 @@ function linkkiw69() {window.open("https://domkiw69.com/register?ref=E3MDNAC0072
 function linkmpo333() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14870319&group=0");}
 function linkrajampo() {window.open("https://link03.raj4mpo.com/register/L7NQ26DL");}
 function linkamavi88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16955109&group=0");}
-function linkbaron4d() {window.open("https://baron26.site/mobile/register?ref=babisexy");}
+function linkbaron4d() {window.open("https://baron29.art/mobile/register?ref=babisexy");}
 function linkmansion77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19339010&group=0");}
 function linkjawara88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17979435&group=0");}
 function linkmega38() {window.open("https://tawk.to/chat/64bad53bcc26a871b02a3c54/1h5st1sco?");}
@@ -290,6 +290,7 @@ function linkkw303() {window.open("https://secure.livechatinc.com/customer/actio
 function linkcumi787() {window.open("https://4cumi787.site/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://t.me/Terminal4d");}
 function linkrajajudi33() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19458017&group=0");}
+
 
 
 
