@@ -134,7 +134,7 @@ function linkjawara88() {window.open("https://secure.livechatinc.com/customer/ac
 function linkmega38() {window.open("https://tawk.to/chat/64bad53bcc26a871b02a3c54/1h5st1sco?");}
 function linkgacor88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19134872&group=0");}
 function linksgpslot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14257701&group=0");}
-function linkmpo777() {window.open("https://mpo777spot.com/register/R9D37PR2");}
+function linkmpo777() {window.open("https://app.chaport.com/widget/show.html?appid=6756ca26ff4b1e466bd325f7&");}
 function linkkingtoto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15376176&group=0");}
 function linkdewasloto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19134967&group=0");}
 function linktwinbet() {window.open("https://www.twinsbet.lt/");}
@@ -290,6 +290,7 @@ function linkkw303() {window.open("https://kw303.live/?ref=babisexy");}
 function linkcumi787() {window.open("https://4cumi787.site/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dpower.rest/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19458017&group=0");}
+
 
 
 
