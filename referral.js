@@ -95,7 +95,7 @@ function link12naga() {window.open("https://secure.livechatinc.com/customer/acti
 function linktokekwin() {window.open("https://misteritokekwin.com/daftar?ref=babisexy");}
 function linkhokiraja() {window.open("https://hokirajashinobi.online/daftar?ref=babisexy");}
 function linkpphoki() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15229440&group=0");}
-function linkaw8() {window.open("https://www.aw8petir.com/id-id/register?refid=ymbrprab");}
+function linkaw8() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12114771&group=3");}
 function linkhoki177() {window.open("https://bomhoki177.com/register?ref=babisexy");}
 function linknewliga365() {window.open("https://newliga365gg.site/?action=register&rc=LEOK60YFBD&ci=11");}
 function linklotto01() {window.open("https://masterlotto01.org/referral/BABISEXY");}
@@ -290,6 +290,7 @@ function linkkw303() {window.open("https://kw303.live/?ref=babisexy");}
 function linkcumi787() {window.open("https://4cumi787.site/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://terminal4dpower.rest/register?referral_code=babisexy");}
 function linkrajajudi33() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19458017&group=0");}
+
 
 
 
