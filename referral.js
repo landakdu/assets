@@ -288,8 +288,9 @@ function linknvmslot898() {window.open("https://secure.livechatinc.com/customer/
 function linkslotthailand() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16742517&group=0");}
 function linkkw303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17797320&group=0");}
 function linkcumi787() {window.open("https://4cumi787.site/daftar?ref_id=d58f8fa7");}
-function linkterminal4d() {window.open("https://terminal4dpower.rest/register?referral_code=babisexy");}
+function linkterminal4d() {window.open("https://t.me/Terminal4d");}
 function linkrajajudi33() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19458017&group=0");}
+
 
 
 
