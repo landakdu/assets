@@ -105,7 +105,7 @@ function linkcoblos4d() {window.open("https://a25.coblos4dbet.site/?ref=babisexy
 function linkkadobet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18351249&group=0");}
 function linkmpo222() {window.open("https://mpo222xids.it.com/register/JK86G0Y4");}
 function link303hoki() {window.open("https://eworldexternal.com/register/B48RPJDN");}
-function linkjet88bet() {window.open("https://jet88suasa.site/?ref=babisexy");}
+function linkjet88bet() {window.open("https://t.me/+85514989043");}
 function linkmpo369() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13275744&group=0");}
 function linkmpo08() {window.open("https://mpo08kjs.xyz/register/Q2RDGN20");}
 function linkmpo888() {window.open("https://xp1.mpo888ok.com/register/437GR64017");}
@@ -290,6 +290,7 @@ function linkkw303() {window.open("https://secure.livechatinc.com/customer/actio
 function linkcumi787() {window.open("https://4cumi787.site/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://t.me/Terminal4d");}
 function linkrajajudi33() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19458017&group=0");}
+
 
 
 
