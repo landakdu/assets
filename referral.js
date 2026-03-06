@@ -90,7 +90,7 @@ function linkminitoto() {window.open("https://secure.livechatinc.com/customer/ac
 function linkrans4d() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17309760&group=0");}
 function linksatelittogel() {window.open("https://app.chaport.com/widget/show.html?appid=64baace03609f5fca207a883");}
 function linkpele4d() {window.open("https://www.facebook.com/groups/822612880661348");}
-function linkprimatoto() {window.open("https://link.tokoprimatoto.com/register?referral_code=babisexy");}
+function linkprimatoto() {window.open("https://link1.tokoprimatoto.com/register?referral_code=babisexy");}
 function link12naga() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19293391&group=0");}
 function linktokekwin() {window.open("https://nokturnaltokekwin.com/daftar?ref=babisexy");}
 function linkhokiraja() {window.open("https://hokirajashinobi.online/daftar?ref=babisexy");}
@@ -261,7 +261,7 @@ function linkhoki88bos() {window.open("https://hoki88bostop.digital/ref/?rid=rf1
 function linkmahjongjp88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19052654&group=0");}
 function linkolympus88() {window.open("https://chat.onechat.dev/index.html?id=825def6b-d1bd-4175-969d-e7be6d27eec2&embed=1");}
 function linkcupangjp() {window.open("https://es.cupangjpmana.com/?ref=babisexy");}
-function linkmurah4d() {window.open("https://v8x.murah4dlkj.lat/?ref=babisexy");}
+function linkmurah4d() {window.open("https://win4.murah4dlkj.lat/?ref=babisexy");}
 function linkgacor69() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14684805&group=0");}
 function linkslot138() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19377380&group=0");}
 function link888slot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17114271&group=0");}
@@ -290,6 +290,7 @@ function linkkw303() {window.open("https://secure.livechatinc.com/customer/actio
 function linkcumi787() {window.open("https://4cumi787.site/daftar?ref_id=d58f8fa7");}
 function linkterminal4d() {window.open("https://t.me/Terminal4d");}
 function linkrajajudi33() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19458017&group=0");}
+
 
 
 
