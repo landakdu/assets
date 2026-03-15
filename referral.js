@@ -168,7 +168,7 @@ function linkpentaslot() {window.open("https://secure.livechatinc.com/customer/a
 function linkgaza88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17158854&group=0");}
 function linkcabe777() {window.open("https://secure.livechatenterprise.com/licence/9571715/v2/open_chat.cgi?groups=cabe777");}
 function linkneko9() {window.open("https://tawk.to/chat/6553951f958be55aeaaf9610/1hf77t1mt");}
-function linkqqbos99x() {window.open("https://secure.livechatenterprise.com/licence/13374150/v2/open_chat.cgi?group=125");}{window.open("https://secure.livechatenterprise.com/licence/13374150/v2/open_chat.cgi?group=125");}
+function linkqqbos99x() {window.open("https://secure.livechatenterprise.com/licence/13374150/v2/open_chat.cgi?group=125");}
 function linkboss177() {window.open("https://tawk.to/chat/658aa00d07843602b80594c3/1hiio2eb7");}
 function linkantiktoto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18426810&group=0");}
 function linkscbet88() {window.open("https://tawk.to/chat/69524101c31425197dbe7808/1jdkkrrq0?");}
@@ -220,7 +220,7 @@ function linkhoki77() {window.open("https://chat.onechat.dev/index.html?id=a250d
 function linkunoplay() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13140525&group=0");}
 function linkdewa234() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=11676600&group=0");}
 function linkjudi388() {window.open("https://tawk.to/chat/5e8fe49669e9320caac223ff/default?");}
-function link8togel() {window.open("https://test140n.ruangkomunikasilc.com/chatapi?user=guest&prov=10009&key=ede8f248da975249018d2b24235341a6&lang=id&quot");}
+function link8togel() {window.open("https://test140n.ruangkomunikasilc.com/chatapi?user=guest&prov=10009&key=ede8f248da975249018d2b24235341a6&lang=id");}
 function linkdewakoin() {window.open("https://app.chaport.com/widget/show.html?appid=680321e21a7814050141925a");}
 function linkkas138() {window.open("https://tawk.to/chat/680ba1b1d39ba119086cc0a7/1ipmmv7s3?");}
 function linkole777() {window.open("https://secure.livechatenterprise.com/customer/action/open_chat?license_id=10625422");}
@@ -251,7 +251,7 @@ function linkdewi138() {window.open("https://secure.livechatinc.com/customer/act
 function linkjoin999() {window.open("https://tawk.to/chat/6895a0b3655b4e1928d1eaeb/1j247nhp3?");}
 function linkpari303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19275738&group=0");}
 function linkrajazeus() {window.open("https://tawk.to/chat/64baa30bcc26a871b029ec71/1h5sgppns?");}
-function linksigma168() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=9560705&group=0);}
+function linksigma168() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=9560705&group=0);"}
 function linkjual303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19323423&group=1");}
 function linkpusatjudionline() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14440731&group=0");}
 function linkkaratetoto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19077846&group=0");}
