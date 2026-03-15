@@ -251,7 +251,7 @@ function linkdewi138() {window.open("https://secure.livechatinc.com/customer/act
 function linkjoin999() {window.open("https://tawk.to/chat/6895a0b3655b4e1928d1eaeb/1j247nhp3?");}
 function linkpari303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19275738&group=0");}
 function linkrajazeus() {window.open("https://tawk.to/chat/64baa30bcc26a871b029ec71/1h5sgppns?");}
-function linksigma168() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=9560705&group=0);"}
+function linksigma168() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=9560705&group=0");}
 function linkjual303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19323423&group=1");}
 function linkpusatjudionline() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14440731&group=0");}
 function linkkaratetoto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19077846&group=0");}
