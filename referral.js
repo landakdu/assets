@@ -61,7 +61,7 @@ function linkpapabet88() {window.open("https://secure.livechatinc.com/customer/a
 function linkgadunslot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13071405&group=0");}
 function linksangkarbet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18991948&group=0");}
 function linkwukong778() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18919263&group=0");}
-function sewanamax() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0?");}
+function sewanamax() {window.open("/");}
 function linkqqslot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=11114262&group=0");}
 function linkdewa86() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13423956&group=0");}
 function linkn77toto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19134902&group=0");}
