@@ -1,4 +1,4 @@
-function link() {window.open("#");}
+function linkqqmybet() {window.open("https://qqmybet-new.pages.dev/amp/");}
 function linkjudol303() {window.open("https://tawk.to/chat/6621f9e4a0c6737bd12df92d/1hrqbg9nj");}
 function linkcindototo() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19214672&group=0");}
 function linkjoswd() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19480707&group=0");}
@@ -62,6 +62,7 @@ function linkgadunslot() {window.open("https://secure.livechatinc.com/customer/a
 function linksangkarbet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18991948&group=0");}
 function linkwukong778() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18919263&group=0");}
 function sewanamax() {window.open("/");}
+function link() {window.open("#");}
 function linkqqslot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=11114262&group=0");}
 function linkdewa86() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13423956&group=0");}
 function linkn77toto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19134902&group=0");}
