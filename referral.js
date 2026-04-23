@@ -32,6 +32,7 @@ function linkpaus123() {window.open("https://chat.onechat.dev/index.html?id=83b7
 function linkpremium303() {window.open("https://t.me/premium303");}
 function linksobat138() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17198805&group=0");}
 function linkapi777() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14737137&group=0");}
+function linkapi77() {window.open("https://t.me/komunitas_api77");}
 function linkoke62() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19401102&group=0");}
 function linkkkslot777() {window.open("https://secure.livechatinc.com/licence/14616942/v2/open_chat.cgi");}
 function link838win() {window.open("https://tawk.to/chat/63848049daff0e1306d9c953/1giupa8ns?");}
