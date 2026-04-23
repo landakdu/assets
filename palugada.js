@@ -1,9 +1,9 @@
 var url = Array(
-  "https://www.judisuhu.com/",
-  "https://www.judisuhu.com/",
-  "https://www.judisuhu.com/",
-  "https://www.judisuhu.com/",
-  "https://www.judisuhu.com/"
+  "https://24jamonline.pages.dev/",
+  "https://24jamonline.pages.dev/",
+  "https://24jamonline.pages.dev/",
+  "https://24jamonline.pages.dev/",
+  "https://24jamonline.pages.dev/"
 );
 var rid = "";
 
