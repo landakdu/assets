@@ -1,4 +1,5 @@
 function link() {window.open("#");}
+function linkcapitaltoto() {window.open("https://pglchat.com/livechat/capital/open_chat");}
 function linkvit88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13539783&group=0");}
 function linkqqmybet() {window.open("https://qqmybet-new.pages.dev/amp/");}
 function linkjudol303() {window.open("https://tawk.to/chat/6621f9e4a0c6737bd12df92d/1hrqbg9nj");}
