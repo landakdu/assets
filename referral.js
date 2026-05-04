@@ -1,4 +1,5 @@
 function link() {window.open("#");}
+function linkmultibet88() {window.open("https://chat.onechat.dev/index.html?id=1bc900e9-8436-479f-b124-45319a9222bf");}
 function linkcapitaltoto() {window.open("https://pglchat.com/livechat/capital/open_chat");}
 function linkvit88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13539783&group=0");}
 function linkqqmybet() {window.open("https://qqmybet-new.pages.dev/amp/");}
