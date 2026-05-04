@@ -269,7 +269,7 @@ function linkgacor69() {window.open("https://secure.livechatinc.com/customer/act
 function linkslot138() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19377380&group=0");}
 function link888slot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17114271&group=0");}
 function linkpanen99() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19374904&group=0");}
-function linkraja288() {window.open("https://amp-raja288-info.pages.dev/amp/");}
+function linkraja288() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17794353&group=0");}
 function linkmaxi188() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=18906801&group=0");}
 function linkneymar88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16976247&group=0");}
 function linkclickbet88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12319896&group=0");}
