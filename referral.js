@@ -1,4 +1,5 @@
 function link() {window.open("#");}
+function linkpoka88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13271301&group=0");}
 function linknagarp() {window.open("https://app.chaport.com/widget/show.html?appid=68fa251cee90f1150ad93bb1");}
 function linkdewanaga77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15019695&group=0");}
 function linkalexistogel() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13528077&group=0");}
