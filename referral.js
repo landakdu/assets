@@ -1,4 +1,5 @@
 function link() {window.open("#");}
+function linkpetanitoto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19133041&group=0");}
 function linkwoy99() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19423197&group=0");}
 function linktogel158() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15302406&group=0");}
 function linkpoka88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13271301&group=0");}
