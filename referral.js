@@ -1,4 +1,5 @@
 function link() {window.open("#");}
+function linkalexistogel() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13528077&group=0");}
 function linkmpocash() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19174162&group=0");}
 function linkhkbet138() {window.open("https://tawk.to/chat/69ad4344121cf01c355b8677/1jj6cthol");}
 function linkmultibet88() {window.open("https://chat.onechat.dev/index.html?id=1bc900e9-8436-479f-b124-45319a9222bf");}
