@@ -177,7 +177,7 @@ function linkfungame777() {window.open("https://secure.livechatinc.com/licence/1
 function linkm88() {window.open("https://www.pinterest.com/88myrcom/");}
 function linkdafabet() {window.open("https://www.cs-livechat.com/webchat/v3/chat/id/dafabet");}
 function linkrahayu88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15103890&group=0");}
-function linkagen288() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13767375&group=0");}
+function linkagen288() {window.open("https://chat.onechat.dev/index.html?id=9a4d94d5-ccdf-4901-9356-5861fca4f5ff");}
 function linkbk8() {window.open("https://vue.livesupportbs.com/chatwindow.aspx?siteId=5000379&chatGroup=1&planId=c62215c6-37f8-4481-a2ac-e2571cf0fd34#");}
 function linkjackpot168() {window.open("https://secure.livechatinc.com/licence/14602758/v2/open_chat.cgi");}
 function linktkp303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14657013&group=0");}
