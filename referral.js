@@ -155,7 +155,6 @@ function linksgpslot() {window.open("https://secure.livechatinc.com/customer/act
 function linkmpo777() {window.open("https://app.chaport.com/widget/show.html?appid=6756ca26ff4b1e466bd325f7&");}
 function linkkingtoto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15376176&group=0");}
 function linkdewasloto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19134967&group=0");}
-function linktwinbet() {window.open("https://www.twinsbet.lt/");}
 function linkw77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14979834&group=0");}
 function linkajr88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14452983&group=0");}
 function linkhoki178() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14312892&group=0");}
