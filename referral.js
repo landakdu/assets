@@ -1,5 +1,5 @@
 function link() {window.open("#");}
-function linkqqbola69() {window.open("#");}
+function linkqqbola69() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13374150&group=132");}
 function linkrun113() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14112528&group=0");}
 function linkbadak500() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19348776&group=0");}
 function linkkings128() {window.open("https://app.chaport.com/widget/show.html?appid=64bac6192d3021fc708a87ae");}
