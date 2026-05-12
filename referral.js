@@ -214,7 +214,7 @@ function linkaurajp() {window.open("https://secure.livechatinc.com/customer/acti
 function linkdauntogel() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=9074555&group=0");}
 function linkpiontogel() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14340006&group=0");}
 function linkjadijp() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14997006&group=0");}
-function linkcvtogel() {window.open("https://ffm4fvs7vn.caricvtogel.pro/register?referral_code=babisexy");}
+function linkcvtogel() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14791362&group=0");}
 function linkmpo555() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=11231817&group=0");}
 function linkwisdom77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17058288&group=0");}
 function linkharbet35() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17058288&group=0");}
