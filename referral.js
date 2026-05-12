@@ -225,7 +225,7 @@ function linkroyal123() {window.open("https://secure.livechatinc.com/customer/ac
 function linkgacorslot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12660837&group=0");}
 function linkskslot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14678328&group=0");}
 function linklotuspelangi() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12407328&group=0");}
-function linkplaza4d() {window.open("https://direct.lc.chat/10910702");}
+function linkplaza4d() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=10910702&group=0");}
 function linkalexabet88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=9285615&group=3");}
 function linkdiva168() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19108997&group=0");}
 function linkmpo666() {window.open("https://tawk.to/chat/6708086f7b956a818f4d78b3/1i9rm1tm5");}
