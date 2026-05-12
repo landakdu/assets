@@ -171,7 +171,7 @@ function linksatutogel() {window.open("https://secure.livechatinc.com/customer/a
 function linkindogenting() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=4743931&group=5");}
 function linksupertogel() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19562185&group=0");}
 function linkslotmacau188() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19311977&group=0");}
-function linkeraplay88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15206181&group=0");}
+function linkeraplay88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19664731&group=0");}
 function linkjitu77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19134327&group=0");}
 function linkkudetabet98() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=19100937&group=0");}
 function linkfungame777() {window.open("https://secure.livechatinc.com/licence/13061724/v2/open_chat.cgi");}
