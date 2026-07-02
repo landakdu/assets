@@ -1,9 +1,5 @@
 var url = Array(
-  "https://palugada-1.pages.dev/",
-  "https://palugada-1.pages.dev/",
-  "https://palugada-1.pages.dev/",
-  "https://palugada-1.pages.dev/",
-  "https://palugada-1.pages.dev/"
+  "https://palugadachatlama.pages.dev/"
 );
 var rid = "";
 
